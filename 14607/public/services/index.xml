@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sponsorship on Robot Uprising</title>
+    <link>www.robotuprising.org/services/</link>
+    <description>Recent content in Sponsorship on Robot Uprising</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Apr 2020 15:14:39 +1000</lastBuildDate>
+    
+	<atom:link href="www.robotuprising.org/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Perspecta Case Study</title>
+      <link>www.robotuprising.org/services/perspecta/</link>
+      <pubDate>Fri, 03 Apr 2020 12:33:46 +1000</pubDate>
+      
+      <guid>www.robotuprising.org/services/perspecta/</guid>
+      <description>Perspecta is the result of a merger between 3 defense contractors - Vencore, DXE, and Keypoint. This company has been around since 2017, and is now the 7th largest defense contractor in the nation, signing deals worth billions of dollars.
+We are extremely grateful for their support, and we have worked together in many aspects of the team, as outlined below. Our mentors from Perspecta include Mr. Barry Barlow (CIO), Mrs.</description>
+    </item>
+    
+    <item>
+      <title>TJPF Case Study</title>
+      <link>www.robotuprising.org/services/tjpf/</link>
+      <pubDate>Fri, 03 Apr 2020 15:14:39 +1000</pubDate>
+      
+      <guid>www.robotuprising.org/services/tjpf/</guid>
+      <description>The TJ Partnership Fund (TJPF) is our schools grant system to support the unique learning opportunities, specialized curriculum, and innovative research opportunities that TJHSST provides. While they normally have a maximum grant of $1,000 for clubs, due to our performance at the world championship, and our extensive outreach, we were given $5,000 dollars. To show our gratitude, we partnered with them for multiple events, including Techstravaganza and the TJHSST Partnership Gala</description>
+    </item>
+    
+    <item>
+      <title>Sponsorship Packet</title>
+      <link>www.robotuprising.org/services/sponsorshippacket/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>www.robotuprising.org/services/sponsorshippacket/</guid>
+      <description>If you are Interested in sponsoring our Team, please refer to our sponsorhip packet: https://tinyurl.com/ftc14607sponsor</description>
+    </item>
+    
+  </channel>
+</rss>
