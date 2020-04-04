@@ -1,2 +1,4 @@
-# ftc-website-14607
-Updated FTC Website Repository without the Git and deployment issues
+# ftc-website
+website for ftc team 14607
+
+Created with Hugo, hosted on AWS Amplify.
