@@ -2,7 +2,7 @@ baseURL = "www.robotuprising.org"
 languageCode = "en-us"
 title = "Robot Uprising"
 themesDir = "themes"
-theme = "hugo-theme"
+theme = "hugo-serif-theme"
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
