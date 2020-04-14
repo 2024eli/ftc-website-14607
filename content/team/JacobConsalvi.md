@@ -8,4 +8,4 @@ linkedinurl: ""
 weight: 7
 ---
 
-Jacob is a senior and this is his fourth year in FIRST, joining after discovering this gem-of-a-program in fourth grade for FLL and it has shaped him as a person and built his character. He is the Build Lead and as a member of the CAD and Software subteam, he has amazing EUREKA moments and amazing extensive knowledge of manufacturing. He participates in FRC, CubeSat, Computer Vision, TARC. Jacob has really cool calligraphy pens.
+Jacob is a senior and this is his fourth year in FIRST, joining after discovering this gem-of-a-program in fourth grade for FLL and it has shaped him as a person and built his character. He is a member of the CAD, Engineering, and Software subteams, he has amazing EUREKA moments and amazing extensive knowledge of manufacturing. He participates in FRC, CubeSat, Computer Vision, TARC. Jacob has really cool calligraphy pens.
