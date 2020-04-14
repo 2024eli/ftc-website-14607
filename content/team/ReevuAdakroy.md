@@ -2,7 +2,7 @@
 title: "Reevu Adakroy"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/reevu.jpg"
+image: "images/team/reevu.JPG"
 jobtitle: ""
 linkedinurl: ""
 weight: 5

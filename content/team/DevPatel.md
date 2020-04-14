@@ -2,7 +2,7 @@
 title: "Dev Patel"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/dev.jpg"
+image: "images/team/dev.JPG"
 jobtitle: ""
 linkedinurl: "https://github.com/moonbeam87"
 weight: 2
