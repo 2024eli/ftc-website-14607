@@ -1,5 +1,6 @@
 ---
 title: 'Sponsorship'
+intro_image: images/sponsorpage_team_sponsor_image.png
 ---
 
 # Businesses help us grow
