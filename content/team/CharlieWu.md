@@ -2,7 +2,7 @@
 title: "Charlie Wu"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "public/images/team/charlie.jpg"
+image: "images/team/charlie.jpg"
 jobtitle: "Captain"
 linkedinurl: "https://github.com/cwu159"
 weight: 1
