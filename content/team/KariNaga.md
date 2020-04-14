@@ -2,7 +2,7 @@
 title: "Kari Naga"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/kari.JPG"
+image: "images/kari.jpg"
 jobtitle: ""
 linkedinurl: ""
 weight: 3
