@@ -28,11 +28,6 @@ theme = "hugo-serif-theme"
       weight = 1
 
   [[menu.main]]
-    name = "2020 Virtual Camps"
-    url = "/camps/"
-      weight = 3
-
-  [[menu.main]]
       name = "Team"
       url = "/team/"
       weight = 2
