@@ -16,7 +16,7 @@ theme = "hugo-serif-theme"
     alt = "FTC 14607 - Robot Uprising"
 
   [params.homepage_meta_tags]
-    meta_description = "FTC 14607 Robot Uprising is a team of highschool students participating in the FIRST Robotics League."
+    meta_description = "FTC Team 14607 Robot Uprising is a team of highschool students participating in the FIRST Tech Challenge."
     meta_og_title = "Robot Uprising"
     meta_og_type = "website"
     
@@ -26,6 +26,11 @@ theme = "hugo-serif-theme"
     name = "Sponsorship"
     url = "/services/"
       weight = 1
+
+  [[menu.main]]
+    name = "2020 Virtual Camps"
+    url = "/camps/"
+      weight = 3
 
   [[menu.main]]
       name = "Team"

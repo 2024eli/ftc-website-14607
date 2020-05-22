@@ -1,5 +1,5 @@
 ---
-title: 'About'
+title: '2020 Virtual Summer Camps'
 menu: 'main'
 ---
 
