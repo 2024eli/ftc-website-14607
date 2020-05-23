@@ -3,37 +3,18 @@ title: '2020 Virtual Summer Camps'
 menu: 'main'
 ---
 
-Team 14607 is proud to offer two free virtual summer camps this year, open to the community and general public. 
+TJHSST's FIRST Tech Challenge Team 14607 Robot Uprising is proud to offer two free virtual summer camps, open to the community and general public. Classes are targeted at middle-school aged students, although anyone is free to attend and learn. These classes teach the fundamentals to technology and robotics, through CAD, design principles, advanced manufacturing techniques, working with the Arduino microcontroller, programming in C/C++, and working with simple electronics.
 
-These classes will run for a duration of 4 weeks during Summer 2020. 
-
-## General Info
-
-For information about Team 14607, please visit our About page.
-
-Team 14607's Virtual Summer Camps are open to the public and general community, and are targeted at middle-school aged students, athough anyone is free to attend and learn. The classes teach the fundamentals to technology and robotics, through CAD, design principles, advanced manufacturing techniques, working with the Arduino microcontroller, programming in C/C++, and working with simple electronics.
-
-Our flyer detailing these classes can be found here: <https://bit.ly/3eejTxE> 
-
-These classes are free, but we ask that you register below beforehand to help us gauge the amount of interest and class sizes. 
 ____________
-
-We also strongly encourage participants/their families to, if possible, donate to the TJHSST Partnership Fund's initiative to support FCPS families during this current pandemic crisis. If you can spare a donation to this benevolent and charitable cause, we, along with the entire TJ and FCPS community, would appreciate it greatly. 
-
-If after taking our classes, you feel that you've learned considerably/gained useful knowledge, please consider donating to this charitable fund. If you choose to make a voluntary contribution, courteously add in the name of "TJ FTC Team 14607 Robot Uprising" in the donation. 
-
-Find out more about this initiative/donate here: <https://4agc.com/landing_pages/3efa48fd-5ab2-4872-8ae6-39f7f1dc662e> 
-____________
-
-Camp Dates are currently TBD, and will run during the Summer of 2020.
 
 ### Classes
 
 Each course has a 4 week curriculum with two classes/week. These semi-weekly classes will run on Monday and Wednesday nights. Registration for both courses is open, and participants may register for either course, or both. 
+Classes will run for a duration of 4 weeks from 6/15/2020 - 7/10/2020. 
 
 CAD/Design & Principles: 
 
-- Monday/Wednesday 4-5:30 PM 
+- Monday/Wednesday 4:00 - 5:30 PM 
 
 - Learn about the fundamentals of 3D Design with Autodesk Fusion 360 (free software for students)
 
@@ -45,13 +26,28 @@ CAD/Design & Principles:
 
 Arduino C/C++: 
 
-- Monday/Wednesday 6-7:30 PM  
+- Monday/Wednesday 6:00 - 7:30 PM  
 
 - Learn about how to program in Arduino C/C++ for the Arduino Microcontroller
 
 - Basic virtual electronics instruction, including virtual simulation of LEDs, switches, PWM servos/motors, & more
 
 - Learn advanced object-oriented programming techniques with Arduino C 
+
+____________
+
+### Register Here: 
+
+While these classes are free, we strongly encourage participants/their families to donate to the TJHSST Partnership Fund's initiative to support FCPS families during this current pandemic crisis. If you can spare a donation, we, along with the entire TJ and FCPS community, would appreciate it greatly. 
+
+Please consider donating to this charitable fund. If you choose to make a voluntary contribution, courteously add in the name of "TJ FTC Team 14607 Robot Uprising", with the name of the student, in the donation. 
+
+[Donate Here](https://4agc.com/landing_pages/3efa48fd-5ab2-4872-8ae6-39f7f1dc662e) 
+
+Please fill out this form to register:
+
+[Register Here](https://forms.gle/iN7og1sESJe5FFd29) 
+____________
 
 ### FAQ
 
@@ -61,7 +57,8 @@ When will these classes take place?
 
 How much do the classes cost to attend?
 
-- All the classes in our summer camp are free, although we do encourage voluntary donations to the TJHSST Partnership Fund's initiative to support FCPS families during this current pandemic crisis. (See above in General Info) If after taking our classes, you feel that you've learned considerably/gained useful knowledge, please consider donating to this charitable fund.  
+- All the classes in our summer camp are free, although we do encourage voluntary donations to the TJHSST Partnership Fund's initiative to support FCPS families during this current pandemic crisis. (See above in General Info) Please consider donating to this charitable fund.
+- [Donate Here](https://4agc.com/landing_pages/3efa48fd-5ab2-4872-8ae6-39f7f1dc662e) 
 
 How will these classes be hosted?
 
@@ -75,10 +72,7 @@ Who can attend/What is the specified age-range for these classes?
 
 - Our classes are open to any and all students and community members, but the content will be targeted towards advanced middle schoolers/rising high school 9th grade freshmen. 
 
-## Register Here: 
-
-To help us gauge interest, please fill out this form to RSVP:
-<https://forms.gle/iN7og1sESJe5FFd29>
+____________
 
 ### Questions & Comments
 

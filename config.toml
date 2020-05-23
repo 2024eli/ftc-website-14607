@@ -42,3 +42,8 @@ theme = "hugo-serif-theme"
     name = "Contact"
     url = "/contact/"
       weight = 2
+      
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
