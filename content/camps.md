@@ -56,19 +56,24 @@ Arduino C/C++:
 ### FAQ
 
 When will these classes take place?
-1. Camp Dates are currently TBD, but will run during the Summer of 2020, Monday and Wednesday nights.
+
+- Camp Dates are currently TBD, but will run during the Summer of 2020, Monday and Wednesday nights.
 
 How much do the classes cost to attend?
-1. All the classes in our summer camp are free, although we do encourage voluntary donations to the TJHSST Partnership Fund's initiative to support FCPS families during this current pandemic crisis. (See above in General Info) If after taking our classes, you feel that you've learned considerably/gained useful knowledge, please consider donating to this charitable fund.  
+
+- All the classes in our summer camp are free, although we do encourage voluntary donations to the TJHSST Partnership Fund's initiative to support FCPS families during this current pandemic crisis. (See above in General Info) If after taking our classes, you feel that you've learned considerably/gained useful knowledge, please consider donating to this charitable fund.  
 
 How will these classes be hosted?
-1. We are planning on using Google Meet, a secure web-based software that is available to anyone with a Google account.
+
+- We are planning on using Google Meet, a secure web-based software that is available to anyone with a Google account.
 
 Can I register for more than one class?
-1. Yes, there is no limit on how many students can register/how many classes they can register for. 
+
+- Yes, there is no limit on how many students can register/how many classes they can register for. 
 
 Who can attend/What is the specified age-range for these classes?
-1. Our classes are open to any and all students and community members, but the content will be targeted towards advanced middle schoolers/rising high school 9th grade freshmen. 
+
+- Our classes are open to any and all students and community members, but the content will be targeted towards advanced middle schoolers/rising high school 9th grade freshmen. 
 
 ## Register Here: 
 
