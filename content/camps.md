@@ -3,25 +3,60 @@ title: '2020 Virtual Summer Camps'
 menu: 'main'
 ---
 
-“A team of STEM geared individuals, ready to make changes in the World”
+Team 14607 is proud to offer two free virtual summer camps this year, open to the community and general public. 
 
-Barry Barlow, CIO Perspecta
+These classes will run for a duration of 4 weeks during Summer 2020. 
 
-## About the Team
+## General Info
 
-Robot Uprising is a FIRST Tech Challenge (FTC) team based at and affiliated with Thomas Jefferson High School for Science and Technology (TJHSST), one of the leading public high schools in the United States. This is our third year as a team, and we currently have 10 members from 9th to 12th grade. In our first season we advanced to, and won two awards at the World Championship Tournament, and also won 5 other awards at state and regional levels. Last season, we won 13 awards at local and regional levels, and placed 1st seed in robot performance at the State Championship. Our season was unfortunately cut short due to the COVID-19 Crisis.
+For information on Team 14607, please visit our About page.
+Team 14607's Virtual Summer Camps are open to the public and general community, and are targeted at middle-school aged students, athough anyone is free to attend and learn. The classes teach the fundamentals to technology and robotics, through CAD, design principles, advanced manufacturing techniques, working with the Arduino microcontroller, programming in C/C++, and working with simple electronics.
 
-### Our Mission
+These classes are free, but we ask that you register below beforehand to help us gauge the amount of interest and class sizes. 
 
-Our Team mission is to  is to engage our community and help spread the ideas of FIRST as well as passion in STEM. We do this by attending and hosting outreach events and expanding our own initiative, among various other activities. We have extensive outreach, with over 1,000 recorded hours and over 30 STEM Events just this past season.
+We also strongly encourage participants/their families to, if possible, donate to the TJHSST Partnership Fund's initiative to support FCPS families during this current pandemic crisis. If you can spare a donation to this benevolent and charitable cause, we, along with the entire TJ and FCPS community, would appreciate it greatly. 
+If after taking our classes, you feel that you've learned considerably/gained useful knowledge, please consider donating to this charitable fund. If you choose to make a voluntary contribution, courteously add in the name of "TJ FTC Team 14607 Robot Uprising" in the donation. 
+Find out more about this initiative/donate here: <https://4agc.com/landing_pages/3efa48fd-5ab2-4872-8ae6-39f7f1dc662e> 
 
-We also strive to acheive these goals:
+Camp Dates are currently TBD, and will run during the Summer of 2020.
 
-1. ENGAGE our community by mentoring other teams, attending conferences, and volunteering at STEM events.
-2. INSPIRE students by hosting workshops and summer camps, where we teach our custom robotics curriculum.
-3. COMMUNICATE with mentors, other teams, and businesses to increase STEM interest in our community.
-4. ACHIEVE excellence in robotics through a shadowing program that teaches team members coopetition, leadership, and teamwork.
+For any questions, please contact us at ftc14607@gmail.com, or @ftc14607 on social medias. 
 
-## About FIRST
+### Classes
 
-FIRST (For Inspiration and Recognition of Science and Technology) Robotics is a STEM program that allows passionate students to enrich their studies in all areas of STEM and build science, technology, and engineering skills. The theme of this season, FIRST RISE, aims to “inspire citizens of the galaxy to work together, strengthening and protecting the Force that binds us and creating a place where collaboration and collective wisdom can elevate new ideas and foster growth”. FIRST organizes competitions to encourage students to learn more about STEM, such as the FIRST Tech Challenge (FTC), which engages high schoolers in a team competition to build a robot that completes a series of tasks as well as promote STEM throughout their community with outreach events. Through this program, students develop skills such as time management, planning, leadership, and teamwork, which are vital to their success in the FTC arena as well as in our futures. Last season, the FIRST program reached over half a million active participants from over 95 countries, and it only continues to grow. For more information, visit www.firstinspires.org.
+Each course has a 4 week curriculum with two classes/week. These semi-weekly classes will run on Monday and Wednesday nights. Registration for both courses is open, and participants may register for either course, or both. 
+
+CAD/Design & Principles: 
+1. Monday/Wednesday 4-5:30 PM 
+2. Learn about the fundamentals of 3D Design with Autodesk Fusion 360 (free software for students)
+3. Integrating CAD with Advanced Manufacturing techniques, from 3D printing, to laser-cutting, CNC, & more
+4. Learn Engineering Best Practices and industry design principles and standards
+
+Arduino C/C++: 
+1. Monday/Wednesday 6-7:30 PM  
+2. Learn about how to program in Arduino C/C++ for the Arduino Microcontroller
+3. Basic virtual electronics instruction, including virtual simulation of LEDs, switches, PWM servos/motors, & more
+4. Learn advanced object-oriented programming techniques with Arduino C 
+
+### FAQ
+
+When will these classes take place?
+1. Camp Dates are currently TBD, but will run during the Summer of 2020, Monday and Wednesday nights.
+
+How much do the classes cost to attend?
+1. All the classes in our summer camp are free, although we do encourage voluntary donations to the TJHSST Partnership Fund's initiative to support FCPS families during this current pandemic crisis. (See above in General Info) If after taking our classes, you feel that you've learned considerably/gained useful knowledge, please consider donating to this charitable fund.  
+
+How will these classes be hosted?
+1. We are planning on using Google Meet, a secure, web-based software that is available to anyone with a Google account.
+
+Can I register for more than one class?
+1. Yes, there is no limit on how many students can register/how many classes they can register for. 
+
+Who can attend/What is the specified age-range for these classes?
+1. Our classes are open to any and all students and community members, but the content will be targeted towards advanced middle schoolers/rising high school 9th grade freshmen. 
+
+## Register Here: 
+
+To help us gauge interest, please fill out this form to RSVP:
+<https://forms.gle/iN7og1sESJe5FFd29>
+
