@@ -3,6 +3,8 @@ title: '2020 Virtual Summer Camps'
 menu: 'main'
 ---
 
+![Image](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/100101029_1113005239081973_1166403192200626176_o.jpg?_nc_cat=100&_nc_sid=07e735&_nc_oc=AQmtzVEIsbAf4tl_EyByyC2tFtCFAZL0s3wmdQS3ZU2r7x-9JcBVejs_6nMIIv4PUok&_nc_ht=scontent-iad3-1.xx&oh=cdab012a2ce42f902946503f86c9f3a4&oe=5EEDA0E2)
+
 TJHSST's FIRST Tech Challenge Team 14607 Robot Uprising is proud to offer two free virtual summer camps, open to the community and general public. Classes are targeted at middle-school aged students, although anyone is free to attend and learn. These classes teach the fundamentals to technology and robotics, through CAD, design principles, advanced manufacturing techniques, working with the Arduino microcontroller, programming in C/C++, and working with simple electronics.
 
 ____________
@@ -38,9 +40,9 @@ ____________
 
 ### Register Here: 
 
-While these classes are free, we strongly encourage participants/their families to donate to the TJHSST Partnership Fund's initiative to support FCPS families during this current pandemic crisis. If you can spare a donation, we, along with the entire TJ and FCPS community, would appreciate it greatly. 
+While these classes are free, we strongly encourage participants/their families to donate to the TJHSST Partnership Fund's initiative to support FCPS families during this current pandemic crisis. If you can spare a donation, we, along with the entire TJ and FCPS community, would appreciate it greatly. Donations, from $50, $100 (suggested amounts), or even more, would all be welcomed. 
 
-Please consider donating to this charitable fund. If you choose to make a voluntary contribution, courteously add in the name of "TJ FTC Team 14607 Robot Uprising", with the name of the student, in the donation. 
+Please consider donating to this charitable fund. If you choose to make a voluntary contribution, courteously add in the name of "TJ FTC Team 14607 Robot Uprising", with the name of the student, in the donation comment section. 
 
 [Donate Here](https://4agc.com/landing_pages/3efa48fd-5ab2-4872-8ae6-39f7f1dc662e) 
 
