@@ -1,153 +1,164 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Robot Uprising</title>
-    <link>www.robotuprising.org/</link>
+    <link>/</link>
     <description>Recent content in Home on Robot Uprising</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Apr 2020 15:14:39 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate>
     
-	<atom:link href="www.robotuprising.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Perspecta Case Study</title>
-      <link>www.robotuprising.org/services/perspecta/</link>
+      <link>/services/perspecta/</link>
       <pubDate>Fri, 03 Apr 2020 12:33:46 +1000</pubDate>
       
-      <guid>www.robotuprising.org/services/perspecta/</guid>
+      <guid>/services/perspecta/</guid>
       <description>Perspecta is the result of a merger between 3 defense contractors - Vencore, DXE, and Keypoint. This company has been around since 2017, and is now the 7th largest defense contractor in the nation, signing deals worth billions of dollars.
 We are extremely grateful for their support, and we have worked together in many aspects of the team, as outlined below. Our mentors from Perspecta include Mr. Barry Barlow (CIO), Mrs.</description>
     </item>
     
     <item>
-      <title>Dev Patel</title>
-      <link>www.robotuprising.org/team/devpatel/</link>
+      <title>Charlie Wu</title>
+      <link>/team/charliewu/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>www.robotuprising.org/team/devpatel/</guid>
-      <description>Dev is a senior and this is his eight year in FIRST, joining after finding this program that would facilitate his journey of engineering in 5th grade for FLL. He is the CAD Lead and as a member of the Design subteam, he oversees our team Fusion CAD of the robot. Dev’s most accomplished moments include when he fully automated his homelab, and became an AWS Certified Solutions Architect. In addition to FTC, Dev is also a member of Jefferson&amp;rsquo;s UROV Team.</description>
+      <guid>/team/charliewu/</guid>
+      <description>Charlie is a senior and this is his ninth year in FIRST, joining the program due to his early inclination towards robotics; starting FLL in fourth grade. He is the founder &amp;amp; team captain of team 14607, and a veteran of FTC with five years of experience. He started the team with his dream of crafting a diverse robot-loving family, and when looking at our current team, can confidently say that we have done it!</description>
     </item>
     
     <item>
       <title>TJPF Case Study</title>
-      <link>www.robotuprising.org/services/tjpf/</link>
+      <link>/services/tjpf/</link>
       <pubDate>Fri, 03 Apr 2020 15:14:39 +1000</pubDate>
       
-      <guid>www.robotuprising.org/services/tjpf/</guid>
+      <guid>/services/tjpf/</guid>
       <description>The TJ Partnership Fund (TJPF) is our schools grant system to support the unique learning opportunities, specialized curriculum, and innovative research opportunities that TJHSST provides. While they normally have a maximum grant of $1,000 for clubs, due to our performance at the world championship, and our extensive outreach, we were given $5,000 dollars. To show our gratitude, we partnered with them for multiple events, including Techstravaganza and the TJHSST Partnership Gala</description>
     </item>
     
     <item>
-      <title>Charlie Wu</title>
-      <link>www.robotuprising.org/team/charliewu/</link>
+      <title>Dev Patel</title>
+      <link>/team/devpatel/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>www.robotuprising.org/team/charliewu/</guid>
-      <description>Charlie is a senior and this is his ninth year in FIRST, joining the program due to his early inclination towards all subjects robotics related, starting FLL in fourth grade. He is one of the team captains and a veteran of FTC with five years of experience. He started the team with his dream of crafting a diverse robot-loving family and, when looking at our current team demographic, can confidently say that we have done it!</description>
+      <guid>/team/devpatel/</guid>
+      <description>Dev is a senior and this is his eighth year in FIRST, joining after finding this program that would facilitate his journey of engineering in 5th grade for FLL. He is part of the Design and Build subteam, as well as Software Engineering, he oversees our team Fusion CAD of the robot. Dev’s most accomplished moments include when he fully automated his homelab, and became an AWS Certified Solutions Architect. In addition to FTC, Dev is also a member of Jefferson’s UROV Team.</description>
     </item>
     
     <item>
       <title>Sponsorship Packet</title>
-      <link>www.robotuprising.org/services/sponsorshippacket/</link>
+      <link>/services/sponsorshippacket/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
-      <guid>www.robotuprising.org/services/sponsorshippacket/</guid>
+      <guid>/services/sponsorshippacket/</guid>
       <description>If you are Interested in sponsoring our Team, please refer to our sponsorhip packet: https://tinyurl.com/ftc14607sponsor</description>
     </item>
     
     <item>
-      <title>Jacob Consalvi</title>
-      <link>www.robotuprising.org/team/jacobconsalvi/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>www.robotuprising.org/team/jacobconsalvi/</guid>
-      <description>Jacob is a junior and this is his second year in FIRST, joining after discovering this gem-of-a-program in fourth grade for FLL and it has shaped him as a person and built his character. He is the Build Lead and as a member of the CAD and Software subteam, he has amazing EUREKA moments and amazing extensive knowledge of manufacturing. He participates in FRC, CubeSat, Computer Vision, TARC. Jacob has really cool calligraphy pens.</description>
-    </item>
-    
-    <item>
       <title>Kari Naga</title>
-      <link>www.robotuprising.org/team/karinaga/</link>
+      <link>/team/karinaga/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>www.robotuprising.org/team/karinaga/</guid>
-      <description>Kari is a senior and this is his third year in FIRST, joining after seeing the team’s convincing Facebook post advertising for new members and continued with the team because of all the fun memories we have made! As a member of the Software and Design subteams, he CADs, and designs the mechanisms as well as codes the robot. In school Kari participates in the Web Development Club and loves coding!</description>
-    </item>
-    
-    <item>
-      <title>Reevu Adakroy</title>
-      <link>www.robotuprising.org/team/reevuadakroy/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>www.robotuprising.org/team/reevuadakroy/</guid>
-      <description>Reevu is a senior and this is his third year in FIRST, joining because he thought the program was super cool and an experience that would allow him to apply the knowledge he learned in school! He is the Design Head and a member of the Build subteam, where he designs and brainstorms robot subsystems. In his free time, he practices solving Rubik&amp;rsquo;s Cubes and his best time is 15 seconds and works out at the nearby recenter.</description>
-    </item>
-    
-    <item>
-      <title>Krish Patel</title>
-      <link>www.robotuprising.org/team/krishpatel/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>www.robotuprising.org/team/krishpatel/</guid>
-      <description>Krish is a senior and this is his eigth year in FIRST, joining FLL in 5th grade because he loves robotics and FIRST is a global venue to meet others about it! He is the Drivetrain Head and as a member of the Build subteam, he is in charge of our drop center drive train, as well as assemble the team’s design. FUN FACT: Dev and Krish are identical twins!</description>
-    </item>
-    
-    <item>
-      <title>AJ Seo</title>
-      <link>www.robotuprising.org/team/ajseo/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>www.robotuprising.org/team/ajseo/</guid>
-      <description>AJ is a junior and this is her third year in FIRST. She decided to join TJ’s FTC team after enjoying her time with the FRC team in her freshman year. Outside of school, AJ is on the school’s tennis team and club. She is a part of class council and enjoys planning events with the other members.</description>
+      <guid>/team/karinaga/</guid>
+      <description>Kari is a senior and this is his fourth year in FIRST, joining after seeing the team’s convincing Facebook post advertising for new members and continued with the team because of all the fun memories we have made! As a member of the Software and Design subteams, he CADs, and designs the mechanisms as well as codes the robot. In school Kari participates in the Web Development Club and loves coding!</description>
     </item>
     
     <item>
       <title>Jason Wang</title>
-      <link>www.robotuprising.org/team/jasonwang/</link>
+      <link>/team/jasonwang/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>www.robotuprising.org/team/jasonwang/</guid>
-      <description>Jason is a senior and this is his third year in FIRST, joining after being roped in by our ever-successfully persuasive Facebook post (see above) and has stuck around because he loves the interactive builder-robot experience. As a member of the Engineering and Build subteam as well as the Software Team, he assists the programming and he orchestrates (get it, because he does orchestra) the development of the mechanisms. He participates in ICT (Computer Team) and plays bridge!</description>
+      <guid>/team/jasonwang/</guid>
+      <description>Jason is a senior and this is his third year in FIRST, joining after being roped in by our ever-successfully persuasive Facebook post and has stuck around because he loves the interactive builder-robot experience. On top of that, he enjoys teaching younger students in STEM and robotics with his fellow team members. As a proud and dedicated member of this team, Jason can be spotted around the lab taking pictures with his trusty camera, creating intricate CAD, and racing back-and-forth between our inventory and the 3D printers.</description>
     </item>
     
     <item>
-      <title>Neil Mehra</title>
-      <link>www.robotuprising.org/team/neilmehra/</link>
+      <title>Reevu Adakroy</title>
+      <link>/team/reevuadakroy/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>www.robotuprising.org/team/neilmehra/</guid>
-      <description>Neil is a sophomore and this is his third year in FIRST, joining after finding the team through competing against them in states. In his free time Neil likes to build keyboards and grind Overwatch. As a member of the team Neil programs scuffed autos that mimic GF. In school Neil wants to do ROV, Botball, and play league in a room of sweats.</description>
+      <guid>/team/reevuadakroy/</guid>
+      <description>Reevu is a senior and this is his fourth year in FIRST, joining because he thought the program was super cool and an experience that would allow him to apply the knowledge he learned in school! He is part of the Design and Build subteams, where he designs and brainstorms robot subsystems. In his free time, he practices solving Rubik’s Cubes and his best time is 15 seconds and works out at the nearby recenter.</description>
+    </item>
+    
+    <item>
+      <title>Krish Patel</title>
+      <link>/team/krishpatel/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/krishpatel/</guid>
+      <description>Krish is a senior and this is his eighth year in FIRST, joining FLL in 5th grade because he loves robotics and FIRST is a global venue to meet others about it! He is a member of the Build and Design subteams, and assembles the team’s design. FUN FACT: Dev and Krish are identical twins!</description>
+    </item>
+    
+    <item>
+      <title>Jacob Consalvi</title>
+      <link>/team/jacobconsalvi/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/jacobconsalvi/</guid>
+      <description>Jacob is a senior and this is his fourth year in FIRST, joining after discovering this gem-of-a-program in fourth grade for FLL and it has shaped him as a person and built his character. He is a member of the CAD, Engineering, and Software subteams, he has amazing EUREKA moments and amazing extensive knowledge of manufacturing. He participates in FRC, CubeSat, Computer Vision, TARC. Jacob has really cool calligraphy pens.</description>
+    </item>
+    
+    <item>
+      <title>AJ Seo</title>
+      <link>/team/ajseo/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/ajseo/</guid>
+      <description>AJ is a junior and this is her third year in FIRST. She decided to join TJ’s FTC team after enjoying her time with the FRC team in her freshman year. Outside of school, AJ is on the school’s tennis team and club. She is a part of class council and enjoys planning events with the other members.</description>
     </item>
     
     <item>
       <title>Winston Gan</title>
-      <link>www.robotuprising.org/team/winstongan/</link>
+      <link>/team/winstongan/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>www.robotuprising.org/team/winstongan/</guid>
-      <description>Winston is a sophomore and this is his third year in FIRST, joining after being roped in by our ever-successfully persuasive Facebook post (see Jason) and has stuck around because he loves the interactive builder-robot experience. He likes to make music in his free time and he plays soccer and basketball. He thinks that his music is better than it actually is</description>
+      <guid>/team/winstongan/</guid>
+      <description>Winston is a sophomore and this is his third year in FIRST, joining after being roped in by our ever-successfully persuasive Facebook post (see Jason) and has stuck around because he loves the interactive builder-robot experience. He likes to make music in his free time and he plays soccer and basketball.</description>
+    </item>
+    
+    <item>
+      <title>Neil Mehra</title>
+      <link>/team/neilmehra/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/neilmehra/</guid>
+      <description>Neil is a sophomore and this is his third year in FIRST, joining after finding the team through competing against them in states. In his free time Neil likes to build keyboards and play Overwatch. As a member of the team Neil programs insane autonomous programs for the robot. In school Neil wants to do ROV, Botball, and play league in a room of sweats.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>www.robotuprising.org/contact/</link>
+      <link>/contact/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       
-      <guid>www.robotuprising.org/contact/</guid>
-      <description>Feel Free to email us to ask about sponsorhip, team guidance, or just any questions in general! If you want, we could set up an online viedo call, or you could meet us at the TJHSST Robo Lab! Here are our meeting times at the school:
-   Day Opening Hours     Monday Closed   Tuesday 4:00pm - 6:00pm   Wednesday 4:00pm - 6:00pm   Thursday 4:00pm - 6:30pm   Friday Closed   Saturday 8:00am - 4:00pm   Saturday Closed    </description>
+      <guid>/contact/</guid>
+      <description>Feel free to email us to ask about sponsorship, team guidance, or just any questions in general! If you want, we could set up an online video call, or you could meet us at the TJHSST Robotics Lab (Room 207)! Here are our meeting times at the school:
+   Day Opening Hours     Monday Closed   Tuesday 4:00pm - 6:30pm   Wednesday 4:00pm - 6:30pm   Thursday 4:00pm - 6:30pm   Friday Closed   Saturday 8:00am - 4:00pm   Sunday Closed    </description>
+    </item>
+    
+    <item>
+      <title>2020 Virtual Summer Camps</title>
+      <link>/camps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/camps/</guid>
+      <description>Team 14607 is proud to offer two free virtual summer camps this year, open to the community and general public.
+These classes will run for a duration of 4 weeks during Summer 2020.
+General Info For information on Team 14607, please visit our About page. Team 14607&amp;rsquo;s Virtual Summer Camps are open to the public and general community, and are targeted at middle-school aged students, athough anyone is free to attend and learn.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>www.robotuprising.org/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.robotuprising.org/about/</guid>
+      <guid>/about/</guid>
       <description>“A team of STEM geared individuals, ready to make changes in the World”
 Barry Barlow, CIO Perspecta
-About the Team Robot Uprising is a FIRST Tech Challenge (FTC) team based at and affiliated with Thomas Jefferson High School for Science and Technology (TJHSST), one of the leading public high schools in the United States. This is our third year as a team, and we currently have 12 members from 9th to 12th grade.</description>
+About the Team Robot Uprising is the FIRST Tech Challenge (FTC) Robotics team based at Thomas Jefferson High School for Science and Technology (TJHSST), the leading public high school in the United States. This is our third year as a team, and we currently have 10 members from 9th to 12th grade. In our first season we advanced to, and won two awards at the World Championship Tournament, and also won 5 other awards at state and regional levels.</description>
     </item>
     
   </channel>
