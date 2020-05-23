@@ -32,17 +32,26 @@ Camp Dates are currently TBD, and will run during the Summer of 2020.
 Each course has a 4 week curriculum with two classes/week. These semi-weekly classes will run on Monday and Wednesday nights. Registration for both courses is open, and participants may register for either course, or both. 
 
 CAD/Design & Principles: 
-1. Monday/Wednesday 4-5:30 PM 
-2. Learn about the fundamentals of 3D Design with Autodesk Fusion 360 (free software for students)
-3. Integrating CAD with Advanced Manufacturing techniques, from 3D printing, to laser-cutting, CNC, & more
-4. Learn Engineering Best Practices and industry design principles and standards
-5. Important! - Fusion 360 can only be run on Windows/Mac non-FCPSon laptops, as software has to be installed. 
+
+- Monday/Wednesday 4-5:30 PM 
+
+- Learn about the fundamentals of 3D Design with Autodesk Fusion 360 (free software for students)
+
+- Integrating CAD with Advanced Manufacturing techniques, from 3D printing, to laser-cutting, CNC, & more
+
+- Learn Engineering Best Practices and industry design principles and standards
+
+- Important! - Fusion 360 can only be run on Windows/Mac non-FCPSon laptops, as software has to be installed. 
 
 Arduino C/C++: 
-1. Monday/Wednesday 6-7:30 PM  
-2. Learn about how to program in Arduino C/C++ for the Arduino Microcontroller
-3. Basic virtual electronics instruction, including virtual simulation of LEDs, switches, PWM servos/motors, & more
-4. Learn advanced object-oriented programming techniques with Arduino C 
+
+- Monday/Wednesday 6-7:30 PM  
+
+- Learn about how to program in Arduino C/C++ for the Arduino Microcontroller
+
+- Basic virtual electronics instruction, including virtual simulation of LEDs, switches, PWM servos/motors, & more
+
+- Learn advanced object-oriented programming techniques with Arduino C 
 
 ### FAQ
 
