@@ -42,7 +42,7 @@ ____________
 
 While these classes are free, we strongly encourage participants/their families to donate to the TJHSST Partnership Fund's initiative to support FCPS families during this current pandemic crisis. If you can spare a donation, we, along with the entire TJ and FCPS community, would appreciate it greatly. Donations, from $50, $100 (suggested amounts), or even more, would all be welcomed. 
 
-Please consider donating to this charitable fund. If you choose to make a voluntary contribution, courteously add in the name of "TJ FTC Team 14607 Robot Uprising", with the name of the student, in the donation comment section. 
+Please consider donating to this charitable fund. If you choose to make a voluntary contribution, courteously add in the name of "TJ FTC Team 14607 Robot Uprising", with the name of the student, in the donation comment section. (IMPORTANT: to add this comment to the donation, check the checkbox specifying "Include a message of support on the fundraising page." on the donation page.)
 
 [Donate Here](https://4agc.com/landing_pages/3efa48fd-5ab2-4872-8ae6-39f7f1dc662e) 
 
