@@ -11,7 +11,7 @@ Barry Barlow, CIO Perspecta
 
 Robot Uprising is the FIRST Tech Challenge (FTC) Robotics team based at the Thomas Jefferson High School for Science and Technology (TJHSST), the leading public high school in the United States. This is our third year as a team, and we currently have 10 members from 9th to 12th grade. In our first season we advanced to, and won two awards at the World Championship Tournament, and also won 5 other awards at state and regional levels. Last season, we won 13 awards at local and regional levels, and placed 1st seed in robot performance at the State Championship. Our season was unfortunately cut short due to the COVID-19 Crisis.
 
-Connect with us through email <ftc14607@gmail.com>, or through our social media @ftc14607 (Twitter, Facebook, Instagram). 
+Connect with us through email <ftc14607@gmail.com>, or through our social media @ftc14607 ([Twitter](https://twitter.com/ftc14607), [Facebook](https://facebook.com/ftc14607), [Instagram](https://instagram.com/ftc14607)). 
 
 ### Our Mission
 

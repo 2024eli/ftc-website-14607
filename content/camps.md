@@ -11,12 +11,12 @@ ____________
 
 ### Classes
 
-Each course has a 4 week curriculum with two classes/week. These semi-weekly classes will run on Monday and Wednesday nights. Registration for both courses is open, and participants may register for either course, or both. 
-Classes will run for a duration of 4 weeks from 6/15/2020 - 7/10/2020. 
+Each course has a 5 week curriculum with two classes/week. These semi-weekly classes will run on Monday and Wednesday nights. Registration for both courses is open, and participants may register for either course, or both. 
+Classes will run for a duration of 5 weeks from 6/15/2020 - 7/17/2020. 
 
 CAD/Design & Principles: 
 
-- Monday/Wednesday 4:00 - 5:30 PM 
+- Monday/Wednesday 4:00 - 5:00 PM 
 
 - Learn about the fundamentals of 3D Design with Autodesk Fusion 360 (free software for students)
 
@@ -28,7 +28,7 @@ CAD/Design & Principles:
 
 Arduino C/C++: 
 
-- Monday/Wednesday 6:00 - 7:30 PM  
+- Monday/Wednesday 5:30 - 6:30 PM  
 
 - Learn about how to program in Arduino C/C++ for the Arduino Microcontroller
 
@@ -55,7 +55,7 @@ ____________
 
 When will these classes take place?
 
-- Camp Dates are currently TBD, but will run during the Summer of 2020, Monday and Wednesday nights.
+- Classes will run for 5 weeks from 6/15/2020 - 7/17/2020, Monday and Wednesday nights.
 
 How much do the classes cost to attend?
 
@@ -72,11 +72,11 @@ Can I register for more than one class?
 
 Who can attend/What is the specified age-range for these classes?
 
-- Our classes are open to any and all students and community members, but the content will be targeted towards advanced middle schoolers/rising high school 9th grade freshmen. 
+- Our classes are open to any and all students and community members, but the content will be targeted towards rising high school 9th grade freshmen/advanced middle schoolers. 
 
 ____________
 
 ### Questions & Comments
 
-For any questions, please contact us at ftc14607@gmail.com, or @ftc14607 on social media (Twitter, Facebook, Instagram). 
+For any questions, please contact us at ftc14607@gmail.com, or @ftc14607 ([Twitter](https://twitter.com/ftc14607), [Facebook](https://facebook.com/ftc14607), [Instagram](https://instagram.com/ftc14607)). 
 
