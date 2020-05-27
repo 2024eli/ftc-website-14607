@@ -5,7 +5,7 @@ menu: 'main'
 
 ![Image](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/100101029_1113005239081973_1166403192200626176_o.jpg?_nc_cat=100&_nc_sid=07e735&_nc_oc=AQmtzVEIsbAf4tl_EyByyC2tFtCFAZL0s3wmdQS3ZU2r7x-9JcBVejs_6nMIIv4PUok&_nc_ht=scontent-iad3-1.xx&oh=cdab012a2ce42f902946503f86c9f3a4&oe=5EEDA0E2)
 
-TJHSST's FIRST Tech Challenge Team 14607 Robot Uprising is proud to offer two free virtual summer camps, open to the community and general public. Classes are targeted at middle-school aged students, although anyone is free to attend and learn. These classes teach the fundamentals to technology and robotics, through CAD, design principles, advanced manufacturing techniques, working with the Arduino microcontroller, programming in C/C++, and working with simple electronics.
+TJHSST's FIRST Tech Challenge Team 14607 Robot Uprising is proud to offer two free virtual summer camps, open to the community and general public. Classes are targeted at middle-school aged students, although anyone is free to attend and learn. These classes teach the fundamentals to technology and robotics, through CAD (Computer Aided Design), design principles, advanced manufacturing techniques, working with the Arduino microcontroller, programming in C/C++, and working with simple electronics.
 
 ____________
 
