@@ -2,6 +2,8 @@
 
 [![Generic badge](https://img.shields.io/badge/Made%20With-Hugo-red?style=for-the-badge&logo=hugo)](https://shields.io/)
 
+[![Generic badge](https://img.shields.io/badge/Hosted%20With-AWS-orange?style=for-the-badge&logo=AWS)](https://shields.io/)
+
 Built with Hugo, Hosted on AWS Amplify.
 
 ## BIG BOLD NOTICE TO TEAM MEMBERS BEFORE YOU COMMIT - THE SITE REBUILDS AND REDEPLOYS ON EVERY COMMIT YOU MAKE! EVERY REDEPLOY CYCLE TAKES ABOUT 2 MINTUES AND 65 MS. DON'T BE THAT PERSON WHO COMMITS 16 TIMES TO EDIT ONE FILE. PLEASE!
