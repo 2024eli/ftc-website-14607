@@ -1,8 +1,6 @@
 # FTC Robot Uprising
 
-<a href="https://www.python.org" title="Python3" rel="nofollow"><img src="https://camo.githubusercontent.com/a0d623269ff36bc9067a80c610dcdd99a408c557/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6164655f776974682d507974686f6e332d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e" alt="" data-canonical-src="https://img.shields.io/badge/Made%20With-Hugo-red?style=for-the-badge&logo=hugo" style="max-width:100%;"></a>
-
-https://img.shields.io/badge/Made%20With-Hugo-red?style=for-the-badge&logo=appveyor
+[![Generic badge](https://img.shields.io/badge/Made%20With-Hugo-red?style=for-the-badge&logo=hugo)](https://shields.io/)
 
 Built with Hugo, Hosted on AWS Amplify.
 
