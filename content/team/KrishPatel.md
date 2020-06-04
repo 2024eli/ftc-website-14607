@@ -4,7 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team2/krish.jpg"
 jobtitle: ""
-linkedinurl: ""
+linkedinurl: "https://github.com/krishpatel1077"
 weight: 6
 ---
 
