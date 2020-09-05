@@ -8,4 +8,7 @@ linkedinurl: "https://github.com/jsonW0"
 weight: 4
 ---
 
-Jason is a senior and this is his third year in FIRST, joining after being roped in by our ever-successfully persuasive Facebook post and has stuck around because he loves the interactive builder-robot experience. On top of that, he enjoys teaching younger students in STEM and robotics with his fellow team members. As a proud and dedicated member of this team, Jason can be spotted around the lab taking pictures with his trusty camera, creating intricate CAD, and racing back-and-forth between our inventory and the 3D printers. His favorite memory from FTC was his first ever mission: creating the team marker! Outside of FTC, Jason participates in Machine Learning Club, Senior Computer Team, Dev Club, Bridge Club, and Urban Dance Movement. Jason’s hobbies include programming, playing the violin, and making really cool spreadsheets (like the one he uses for scouting).
+Jason is a senior in his 3rd year of FIRST, and he developed a passion for robotics after discovering the technological wonder that is CAD. He is the Documentation and Outreach Lead, and his favorite parts about our robotics team are designing new parts, engaging with other robot-lovers, and teaching younger students. Besides robotics, Jason participates in TJ’s Machine Learning Club, Senior Computer Team, Dev Club, and Urban Dance Movement. He has an avid interest in computer science and dreams of using CS and robotics to help others. In his free time, he plays the violin, makes really cool spreadsheets, plays video games, and learns about faraway places and cultures from browsing Google Maps and traveling.
+
+
+

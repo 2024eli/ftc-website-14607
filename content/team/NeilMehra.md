@@ -8,4 +8,7 @@ linkedinurl: ""
 weight: 10
 ---
 
-Neil is a sophomore and this is his third year in FIRST, joining after finding the team through competing against them in states. In his free time Neil likes to build keyboards and play Overwatch. As a member of the team Neil programs insane autonomous programs for the robot. In school Neil wants to do ROV, Botball, and play league in a room of sweats.
+Neil is a sophomore in his 3rd year of FIRST. He first experienced robotics as a kid through LEGO Mindstorms and has had a passion for it ever since then. In 8th grade he founded an FTC team to pursue robotics, which eventually led to meeting Robot Uprising and joining them next year. Besides FTC, Neil likes to compete in programming competitions. During his free time Neil make custom keyboards and play video games.
+
+
+

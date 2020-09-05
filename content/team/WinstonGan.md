@@ -8,4 +8,7 @@ linkedinurl: ""
 weight: 9
 ---
 
-Winston is a sophomore and this is his third year in FIRST, joining after being roped in by our ever-successfully persuasive Facebook post (see Jason) and has stuck around because he loves the interactive builder-robot experience. He likes to make music in his free time and he plays soccer and basketball.
+Winston is a sophomore in his 5th year of FIRST, joining FLL at the start because he wanted to experience programming. By joining an FLL team in 5th grade, his interest in robotics grew and it led him to join the FTC program, seeking to learn more about robotics. He is very excited to experience his second year on the team. In his free time, Winston enjoys playing basketball, making music, writing fictional novels, and is involved in TJ's cyber patriot team and soccer team. He also likes pillows.
+
+
+

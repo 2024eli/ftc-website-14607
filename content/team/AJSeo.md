@@ -8,4 +8,7 @@ linkedinurl: ""
 weight: 8
 ---
 
-AJ is a junior and this is her third year in FIRST. She decided to join TJ’s FTC team after enjoying her time with the FRC team in her freshman year. Outside of school, AJ is on the school’s tennis team and club. She is a part of class council and enjoys planning events with the other members.
+AJ is a junior in her 3rd year at FIRST, being part of the school's FRC team in freshman year and FTC in her sophomore and junior years. She's been passionate in STEM since her science bowl and olympiad years in middle school and has been striving to continue that path at TJ. Outside of robotics, AJ is part of TJ's Varsity Girls Tennis team and has played the flute for the last 6 years. She also enjoys dancing, as an Urban Dance Movement club officer, and reading when she has free time.
+
+
+
