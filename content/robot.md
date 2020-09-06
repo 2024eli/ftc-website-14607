@@ -1,5 +1,5 @@
 ---
-title: 'Our 2019-20 Robot: Firefly'
+title: 'Our 2019-20 Robot'
 menu: 'main'
 ---
 

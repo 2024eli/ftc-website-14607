@@ -31,6 +31,26 @@ theme = "hugo-serif-theme"
       name = "Team"
       url = "/team/"
       weight = 2
+  
+  [[menu.main]]
+      name = "About"
+      url = "/about/"
+      weight = 3
+
+  [[menu.main]]
+      name = "Our 2019-20 Robot"
+      url = "/robot/"
+      weight = 4
+  
+  [[menu.main]]
+      name = "Growing Up with Robots"
+      url = "/gur/"
+      weight = 5
+  
+  [[menu.main]]
+      name = "Contact"
+      url = "/contact/"
+      weight = 6
 
   # Footer Menu
   [[menu.footer]]
