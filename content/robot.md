@@ -144,7 +144,7 @@ ____________
 
 ### Foundation Mover 
 
-Firefly’s foundation mover is powered by two bearing-housing reinforced angular servos, with laser-cut delrin custom foundation arms attached. Geometry design of its delrin foundation arms allow them to move in an arc to lock onto the foundation, even when the robot is not perfectly squared, allowing for a large margin of driver error.
+Firefly’s foundation mover is powered by two bearing-housing reinforced angular servos, with laser-cut delrin custom foundation arms attached. The geometry of its delrin foundation arms allow them to move in an arc to lock onto the foundation, even when the robot is not perfectly squared, allowing for a large margin of driver error.
 
 Foundation Arms
 
