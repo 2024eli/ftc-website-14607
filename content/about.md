@@ -1,6 +1,5 @@
 ---
 title: 'About'
-menu: 'main'
 ---
 
 “A team of STEM geared individuals, ready to make changes in the World”

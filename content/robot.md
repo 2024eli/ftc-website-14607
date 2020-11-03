@@ -1,6 +1,5 @@
 ---
 title: 'Our 2019-20 Robot'
-menu: 'main'
 ---
 
 ![Image](https://lh3.googleusercontent.com/pw/ACtC-3eUXRztrRcnlDXtHT9_a2V1gGKIrshHlUjx2HKa7qzvVUl0v9gvDs2RLlP37dGJUemRSDUX9ZMXVzdjirL1Q6dJ5KQr0l7DgcLWz4UjbF6ECg286qZGyiHy5u9ESxQLqeqX33zWzby13iAagOpWKfns=w512-h384-no?authuser=1)
