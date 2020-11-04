@@ -7,4 +7,4 @@ intro_image: https://lh3.googleusercontent.com/pw/ACtC-3c7_JhCWByCYtrniap3jHy_kX
 
 # FTC 14607 - Robot Uprising
 
-## We are FIRST Tech Challenge Team 14607, Robot Uprising, from Thomas Jefferson High School for Science and Technology, in Alexandria, VA. This is our third year as a team in FIRST Robotics, and we are excited to compete this year in the FIRST Tech Challenge. 
+## We are FIRST Tech Challenge Team 14607, Robot Uprising, from Thomas Jefferson High School for Science and Technology, in Alexandria, VA. This is our third year as a team in FIRST Robotics, and we are excited to compete in the FIRST Tech Challenge. 
