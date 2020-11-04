@@ -13,7 +13,11 @@ Ever since 2018, we have strived to help spread our enthusiasm for STEM to young
 
 Over these past years, we've worked with our school (TJHSST) and Fairfax County Public Schools (FCPS) to build the Growing Up with Robotics initiative to bring an extensive and complete STEM education to students from FCPS Title I schools through robotics classes, taught with a cirriculum we designed specifically to help students discover robotics to their fullest potential. Just last year, through our Saturday instructional sessions and summer camps, we're proud to have been able to teach 100 students from Title I schools, among many others! In addition, we've strived to present at STEM faires, community events, and various exhibitions and expos to further our STEM and robotics impact on our local community. 
 
+____________
+
 ### Gallery 
+
+____________
 
 ![Image](https://lh3.googleusercontent.com/pw/ACtC-3evp_kNcwhr0c8lc7mj4D9imrn1dGfHMyPfxm-t_DvhXE9bf_G2ZjVyzWGLOi2qkk2HR0jkUK1N5D1aGQ6PeNcQnp-RdVnxhvsQiWCAZ3og1a3294o3ufo4gM79w4lmNtVErnB8vdQ6A7ZqX5m5ccmW=w1226-h904-no?authuser=1)
 
