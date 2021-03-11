@@ -1,5 +1,5 @@
 ---
-title: '2021 Virtual Summer Camps'
+title: '2021 Virtual Camps'
 menu: 'main'
 ---
 
