@@ -1,41 +1,40 @@
 ---
-title: '2020 Virtual Summer Camps'
+title: '2021 Virtual Summer Camps'
 menu: 'main'
 ---
 
 ![Image](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/100101029_1113005239081973_1166403192200626176_o.jpg?_nc_cat=100&_nc_sid=07e735&_nc_oc=AQmtzVEIsbAf4tl_EyByyC2tFtCFAZL0s3wmdQS3ZU2r7x-9JcBVejs_6nMIIv4PUok&_nc_ht=scontent-iad3-1.xx&oh=cdab012a2ce42f902946503f86c9f3a4&oe=5EEDA0E2)
 
-TJHSST's FIRST Tech Challenge Team 14607 Robot Uprising is proud to offer two free virtual summer camps, open to the community and general public. Classes are targeted at middle-school aged students, although anyone is free to attend and learn. These classes teach the fundamentals to technology and robotics, through CAD (Computer Aided Design), design principles, advanced manufacturing techniques, working with the Arduino microcontroller, programming in C/C++, and working with simple electronics.
+TJHSST's FIRST Tech Challenge Team 14607 Robot Uprising is proud to offer two free virtual camps, open to the community and general public. Classes are targeted at middle-school aged students, although anyone is free to attend and learn. These classes teach the fundamentals to technology and robotics, through CAD (Computer Aided Design), design principles, advanced manufacturing techniques, and programming in Python.
 
 ____________
 
 ### Classes
 
-Each course has a 5 week curriculum with two classes/week. These semi-weekly classes will run on Monday and Wednesday nights. Registration for both courses is open, and participants may register for either course, or both. 
-Classes will run for a duration of 5 weeks from 6/15/2020 - 7/17/2020. 
+Each course has a 6 week curriculum with one class a week. These weekly classes will run on Saturday from 9:30-11:00 AM. Registration for both courses is open, and participants may register for either course, or both. 
+Classes will run for a duration of 6 weeks. 
 
 CAD/Design & Principles: 
 
 - Monday/Wednesday 4:00 - 5:00 PM 
 
-- Learn about the fundamentals of 3D Design with Autodesk Fusion 360 (free software for students)
+- Learn about the fundamentals of 3D Design with Onshape
 
 - Integrating CAD with Advanced Manufacturing techniques, from 3D printing, to laser-cutting, CNC, & more
 
 - Learn Engineering Best Practices and industry design principles and standards
 
-- Important! - Fusion 360 can only be run on Windows/Mac non-FCPSon laptops, as software has to be installed. 
 
-Arduino C/C++: 
+
+Python: 
 
 - Monday/Wednesday 5:30 - 6:30 PM  
 
-- Learn about how to program in Arduino C/C++ for the Arduino Microcontroller
+- Learn the fundamentals of Python programming
 
-- Basic virtual electronics instruction, including virtual simulation of LEDs, switches, PWM servos/motors, & more
+- Learn advanced Data Structures and algorithmic thinking
 
-- Learn advanced object-oriented programming techniques with Arduino C 
-
+- Apply Python to robotics simulations
 ____________
 
 ### Register Here: 
@@ -55,16 +54,12 @@ ____________
 
 When will these classes take place?
 
-- Classes will run for 5 weeks from 6/15/2020 - 7/17/2020, Monday and Wednesday nights.
+- Classes will run for 6 weeks on Saturday mornings from 9:30-11:00 AM
 
 How much do the classes cost to attend?
 
-- All the classes in our summer camp are free, although we do encourage voluntary donations to the TJHSST Partnership Fund's initiative to support FCPS families during this current pandemic crisis. (See above in General Info) Please consider donating to this charitable fund.
+- All the classes in our camp are free, although we do encourage voluntary donations to the TJHSST Partnership Fund's initiative to support FCPS families during this current pandemic crisis. (See above in General Info) Please consider donating to this charitable fund.
 - [Donate Here](https://4agc.com/landing_pages/3efa48fd-5ab2-4872-8ae6-39f7f1dc662e) 
-
-How will these classes be hosted?
-
-- We are planning on using Google Meet, a secure web-based software that is available to anyone with a Google account.
 
 Can I register for more than one class?
 
