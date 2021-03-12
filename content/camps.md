@@ -57,9 +57,8 @@ When will these classes take place?
 
 How much do the classes cost to attend?
 
-- All the classes in our camp are free!<!---although we do encourage voluntary donations to the TJHSST Partnership Fund's initiative to support FCPS families during this current pandemic crisis. (See above in General Info) Please consider donating to this charitable fund.
-- [Donate Here](https://4agc.com/landing_pages/3efa48fd-5ab2-4872-8ae6-39f7f1dc662e)-->
-
+- All the classes in our camp are free!<!---although we do encourage voluntary donations to the TJHSST Partnership Fund's initiative to support FCPS families during this current pandemic crisis. (See above in General Info) Please consider donating to this charitable fund.-->
+<!--- - [Donate Here](https://4agc.com/landing_pages/3efa48fd-5ab2-4872-8ae6-39f7f1dc662e)-->
 Can I register for more than one class?
 
 - Yes, there is no limit on how many students can register/how many classes they can register for. 
