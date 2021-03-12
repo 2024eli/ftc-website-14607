@@ -3,7 +3,7 @@ title: '2021 Virtual Camps'
 menu: 'main'
 ---
 
-![Image](https://doc-08-1s-docs.googleusercontent.com/docs/securesc/4scgopc67r2gs59tepnncaqcqavdredo/rrcn6remknrpp4ijteb17luccm0ki6m2/1615508625000/07581663731878896969/07581663731878896969/1wacZzh6Y8NJgH25lqtgEc0MMilGeuOis?authuser=1&nonce=si23ohos83sbi&user=07581663731878896969&hash=9vtanelmcgmabrtkg3f9l6edf0t2fsap)
+![Image](https://drive.google.com/uc?id=1wacZzh6Y8NJgH25lqtgEc0MMilGeuOis)
 
 TJHSST's FIRST Tech Challenge Team 14607 Robot Uprising is proud to offer two free virtual camps, open to the community and general public. Classes are targeted at middle-school aged students, although anyone is free to attend and learn. These classes teach the fundamentals to technology and robotics, through CAD (Computer Aided Design), design principles, advanced manufacturing techniques, and programming in Python.
 
