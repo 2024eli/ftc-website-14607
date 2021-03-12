@@ -16,7 +16,7 @@ Classes will run for a duration of 6 weeks.
 
 CAD/Design & Principles: 
 
-- Monday/Wednesday 4:00 - 5:00 PM 
+- Saturday Mornings from 9:30-11:00 AM March 20 --> April 24
 
 - Learn about the fundamentals of 3D Design with Onshape
 
@@ -28,7 +28,7 @@ CAD/Design & Principles:
 
 Python: 
 
-- Monday/Wednesday 5:30 - 6:30 PM  
+- Saturday Mornings from 9:30-11:00 AM May 1 --> June 5  
 
 - Learn the fundamentals of Python programming
 
