@@ -12,7 +12,6 @@ ____________
 ### Classes
 
 Each course has a 6 week curriculum with one class a week. These weekly classes will run on Saturday from 9:30-11:00 AM. Registration for both courses is open, and participants may register for either course, or both. 
-Classes will run for a duration of 6 weeks. 
 
 CAD/Design & Principles: 
 
@@ -39,14 +38,9 @@ ____________
 
 ### Register Here: 
 
-<!---While these classes are free, we strongly encourage participants/their families to donate to the TJHSST Partnership Fund's initiative to support FCPS families during this current pandemic crisis. If you can spare a donation, we, along with the entire TJ and FCPS community, would appreciate it greatly. Donations, from $50, $100 (suggested amounts), or even more, would all be welcomed.-->
-
-<!---Please consider donating to this charitable fund. If you choose to make a voluntary contribution, courteously add in the name of "TJ FTC Team 14607 Robot Uprising", with the name of the student, in the donation comment section. (IMPORTANT: to write this comment as part of your donation, check the checkbox specifying "Include a message of support on the fundraising page." on the donation page.)-->
-
-<!---[Donate Here](https://4agc.com/landing_pages/3efa48fd-5ab2-4872-8ae6-39f7f1dc662e)-->
 Please fill out this form to register:
 
-[Register Here](https://forms.gle/iN7og1sESJe5FFd29) 
+[Register Here](https://forms.gle/mv1KPMYqo1TC4NxA6) 
 ____________
 
 ### FAQ
@@ -57,8 +51,8 @@ When will these classes take place?
 
 How much do the classes cost to attend?
 
-- All the classes in our camp are free!<!---although we do encourage voluntary donations to the TJHSST Partnership Fund's initiative to support FCPS families during this current pandemic crisis. (See above in General Info) Please consider donating to this charitable fund.-->
-<!--- - [Donate Here](https://4agc.com/landing_pages/3efa48fd-5ab2-4872-8ae6-39f7f1dc662e)-->
+- All the classes in our camp are free!
+
 Can I register for more than one class?
 
 - Yes, there is no limit on how many students can register/how many classes they can register for. 
