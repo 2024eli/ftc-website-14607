@@ -11,7 +11,7 @@ ____________
 
 ### Classes
 
-Each course has a 6 week curriculum with one class a week. These weekly classes will run on Saturday from 9:30-11:00 AM. Registration for both courses is open, and participants may register for either course, or both. 
+Each course runs for 6 Saturdays from 9:30-11:00 AM EDT. Registration for both courses is open, and participants may register for either course, or both.
 
 CAD/Design & Principles: 
 
@@ -47,7 +47,7 @@ ____________
 
 When will these classes take place?
 
-- Classes will run for 6 weeks on Saturday mornings from 9:30-11:00 AM
+- Classes will run for 6 weeks on Saturday mornings from 9:30-11:00 AM EDT
 
 How much do the classes cost to attend?
 
