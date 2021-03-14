@@ -5,7 +5,7 @@ menu: 'main'
 
 ![Image](https://drive.google.com/uc?id=1wacZzh6Y8NJgH25lqtgEc0MMilGeuOis)
 
-TJHSST's FIRST Tech Challenge Team 14607 Robot Uprising is proud to offer two free virtual camps, open to the community and general public. Classes are targeted at middle-school aged students, although anyone is free to attend and learn. These classes teach the fundamentals to technology and robotics, through CAD (Computer Aided Design), design principles, advanced manufacturing techniques, and programming in Python.
+TJHSST's FIRST Tech Challenge Team 14607 Robot Uprising is proud to offer two free virtual spring camps, open to the community and general public. Classes are targeted at middle-school aged students, although anyone is free to attend and learn. These classes teach the fundamentals to technology and robotics, through CAD (Computer Aided Design), design principles, advanced manufacturing techniques, and programming in Python.
 
 ____________
 
@@ -13,9 +13,7 @@ ____________
 
 Each course runs for 6 Saturdays from 9:30-11:00 AM EDT. Registration for both courses is open, and participants may register for either course, or both.
 
-CAD/Design & Principles: 
-
-- Saturday Mornings from 9:30-11:00 AM March 20 --> April 24
+CAD (March 20 to April 24)
 
 - Learn about the fundamentals of 3D Design with Onshape
 
@@ -25,9 +23,7 @@ CAD/Design & Principles:
 
 
 
-Python: 
-
-- Saturday Mornings from 9:30-11:00 AM May 1 --> June 5  
+Python (May 1 to June 5)
 
 - Learn the fundamentals of Python programming
 
