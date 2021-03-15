@@ -48,9 +48,19 @@ theme = "hugo-serif-theme"
       weight = 5
   
   [[menu.main]]
+      name = "Past Camps"
+      url = "/history/"
+      weight = 6
+
+  [[menu.main]]
+      name = "2021 Virtual Camps"
+      url = "/camps/"
+      weight = 7
+
+  [[menu.main]]
       name = "Contact"
       url = "/contact/"
-      weight = 6
+      weight = 8
 
   # Footer Menu
   [[menu.footer]]
