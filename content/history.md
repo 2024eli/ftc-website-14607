@@ -22,7 +22,7 @@ ____________
 
 ### End of Camp Survey Results
 
-- Students rated the class 4.7/5 <img src="https://drive.google.com/uc?id=1drjjhEXu5rrnn6r_Zx4264gYmBZQbwyF" width="75" height="1"/>
+- Students rated the class 4.7/5 <img src="https://drive.google.com/uc?id=1drjjhEXu5rrnn6r_Zx4264gYmBZQbwyF" width="75" height="17"/>
 - 94.4% of students would recommend the class to others
 - Top 5 most common adjectives to describe the class were:
     - Fun
