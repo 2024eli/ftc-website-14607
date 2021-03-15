@@ -1,6 +1,5 @@
 ---
 title: '2021 Virtual Camps'
-menu: 'main'
 ---
 
 ![Image](https://drive.google.com/uc?id=1wacZzh6Y8NJgH25lqtgEc0MMilGeuOis)
