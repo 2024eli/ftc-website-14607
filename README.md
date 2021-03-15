@@ -50,7 +50,13 @@ The majority of the configuration settings will be found in the "config.toml" an
 
 Want to do something similar! Great! Go read the Hugo Quickstart Guide, and get cracking!
 
+### Note to Self from Jason
 
+- Download the extended verison of Hugo when testing locally and use command "hugo server"
+- Config.toml has the configuration for the top nav bar, refer to pages with same name as the content markdown
+- In the content folder .md files, remove any "main" attributes (use the config.toml instead with weight)
+- Change the themes/hugo-serif-themes/layouts/index.html because the config.toml nav bar doesn't affect the home page
+- TODO: find out why css doesn't work for home page on local
 
 License
 ----
