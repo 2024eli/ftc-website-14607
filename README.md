@@ -59,6 +59,9 @@ Want to do something similar? Great! Go read the Hugo Quickstart Guide, and get 
 - Update the public/categories/index.html and any other index.html under public as necessary
 - TODO: find out why css doesn't work for home page on local
 
+### Note to Self from Maribelle
+- ftc-website-14607\themes\hugo-serif-theme\layouts\index.html is the file that edits the index
+
 License
 ----
 
