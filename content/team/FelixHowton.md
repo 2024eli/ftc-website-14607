@@ -1,0 +1,11 @@
+---
+title: "Felix"
+date:
+draft: false
+image: "images/team2/felix.jpg"
+jobtitle: ""
+linkedinurl: ""
+weight: 19
+---
+
+Felix is a sophomore in his second year of FIRST. In 8th grade, he discovered his love for robotics on his middle school FTC team while designing, constructing, and driving his team’s robot. Felix joined the team to dive deeper into robotics and to help the community learn about STEM. He is on the school's history bowl team and his class’s class council. Felix loves spending his free time playing various sports including soccer, basketball, and ultimate frisbee. He also enjoys reading, and playing video games.
