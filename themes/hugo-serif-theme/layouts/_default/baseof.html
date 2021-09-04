@@ -8,7 +8,8 @@
   <title>{{ block "title" . }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {{ block "meta_tags" . }}{{end}}
-  <link rel="icon" href="{{ "favicon-32x32.png" | relURL }}">
+  <link rel="icon" href="{{ "/images/ftcFavicon.jpg" | relURL }}">
+  <!-- Changes the favicon for the all of the pages -->
 
   <!-- CSS-->
   {{ if .Site.IsServer }}

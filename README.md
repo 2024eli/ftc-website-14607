@@ -61,6 +61,7 @@ Want to do something similar? Great! Go read the Hugo Quickstart Guide, and get 
 
 ### Note to Self from Maribelle
 - ftc-website-14607\themes\hugo-serif-theme\layouts\index.html is the file that edits the index
+- index.md doesn't work
 
 License
 ----

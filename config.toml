@@ -10,6 +10,7 @@ theme = "hugo-serif-theme"
   google_tag_manager_id = ""
 
   [params.logo]
+    # edits the navbar favicon
     standard  = "images/ftc.svg"
     mobile = "images/mobile.svg"
 
