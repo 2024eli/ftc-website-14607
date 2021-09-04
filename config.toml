@@ -40,7 +40,7 @@ theme = "hugo-serif-theme"
 
   [[menu.main]]
       name = "Our 2019-20 Robot"
-      url = "/robot/"
+      url = "/19-20robot/"
       weight = 4
   
   [[menu.main]]
