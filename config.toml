@@ -12,7 +12,7 @@ theme = "hugo-serif-theme"
   [params.logo]
     # edits the navbar favicon
     standard  = "images/ftc.svg"
-    mobile = "images/mobile.svg"
+    mobile = "images/ftcFavicon.jpg"
 
     alt = "FTC 14607 - Robot Uprising"
 
