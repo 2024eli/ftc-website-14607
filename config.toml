@@ -53,6 +53,7 @@ theme = "hugo-serif-theme"
       name = "Robots"
       url = "/robots/"
       weight = 4
+<<<<<<< HEAD
 
   [[menu.main]] #child is 2019-20 robot
       name = "2019-20 Robot"
@@ -65,6 +66,8 @@ theme = "hugo-serif-theme"
       url = "/2020-21 Robot/"
       parent = "Robots"
       weight = 1
+=======
+>>>>>>> parent of 645b3f6 (sponsorship packet add)
   
   [[menu.main]]
       name = "Growing Up with Robots"
