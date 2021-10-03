@@ -1,35 +1,13 @@
-
 <div id="main-menu" class="main-menu">
   <ul>
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
-    <li class="dropdown dropdown-item menu-item-{{ .Name | lower }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
-      <a class="menu-link-{{ .Name | lower }}" style="text-decoration:none" href="{{.URL}}">
+    <li class="menu-item-{{ .Name | lower }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
+      <a href="{{.URL}}">
         {{ .Pre }}
         <span>{{ .Name }}</span>
-        {{ if .HasChildren }}
-        <div>
-            <!-- <span class="dropdown-toggle" for="{{ .Name }}">▾</span> -->
-            <ul class="dropdown">
-                {{ range .Children }}
-                <li class="dropdown-content {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-                  <a class="" href="{{ .URL }}">{{ .Name }}</a>
-                </li>
-                {{ end }}
-            </ul>
-        </div>
-       {{ end }}
-      </a>      
+      </a>
     </li>
     {{end}}
   </ul>
 </div>
-
-<!-- <div class="dropdown">
-  <button class="dropbtn">Dropdown</button>
-  <div class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-</div> -->

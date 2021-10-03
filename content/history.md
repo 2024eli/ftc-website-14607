@@ -1,5 +1,5 @@
 ---
-title: '2020 Virtual Camps'
+title: 'Past Camps'
 ---
 
 ### 2020 Virtual Summer Camps 
