@@ -5886,7 +5886,6 @@ body {
   min-width: 160px;
   min-height: 20px;
   border-radius: 2px;
-  // padding: 16px;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
 }
