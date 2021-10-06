@@ -303,3 +303,58 @@ models:
         name: intro_image_hide_on_mobile
         label: Intro Image Hide On Mobile
         description: Hide the intro image on mobile screen sizes
+  alumni:
+    type: page
+    label: Alumni
+    folder: alumni
+    exclude: _index.md
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: date
+        name: date
+        label: Date
+      - type: image
+        name: image
+        label: Image
+      - type: string
+        name: jobtitle
+        label: Job Title
+      - type: string
+        name: linkedinurl
+        label: Linkedin URL
+      - type: boolean
+        name: draft
+        label: Draft
+      - type: boolean
+        name: featured
+        label: Featured
+      - type: number
+        name: weight
+        label: Weight
+  alumnis:
+    type: page
+    label: Alumni Overview
+    file: alumni/_index.md
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page.
+        required: true
+      - type: image
+        name: intro_image
+        label: Intro Image
+        description: Image displayed at in the pages intro section
+      - type: boolean
+        name: intro_image_absolute
+        label: Intro Image Position
+        description: Should the image overflow or be contained
+      - type: boolean
+        name: intro_image_hide_on_mobile
+        label: Intro Image Hide On Mobile
+        description: Hide the intro image on mobile screen sizes
+
+
