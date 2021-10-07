@@ -63,6 +63,7 @@ Want to do something similar? Great! Go read the Hugo Quickstart Guide, and get 
 - ftc-website-14607\themes\hugo-serif-theme\layouts\index.html is the file that edits the index
 - index.md doesn't work
 - ftc-website-14607\themes\hugo-serif-theme\assets\scss\style.scss is where the css for the navbar lives
+- control f "not used" and it will bring up useless files
 
 License
 ----
