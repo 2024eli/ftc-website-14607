@@ -19,13 +19,13 @@
   </div>
 </div>
 
-{{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
-{{if gt (len $services) 0}}
+{{ $sponsorship := where (where .Site.RegularPages "Type" "sponsorship") ".Params.featured" true }}
+{{if gt (len $sponsorship) 0}}
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
-      {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
-      {{ range first 6 (sort $services ".Params.weight") }}
+      {{ $sponsorship := where (where .Site.RegularPages "Type" "sponsorship") ".Params.featured" true }}
+      {{ range first 6 (sort $sponsorship ".Params.weight") }}
       <div class="col-12 col-md-4 mb-1">
         {{ .Render "summary" }}
       </div>
@@ -34,7 +34,7 @@
     {{ if not .Site.Params.homepage.show_services_button }}
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "services/" | relURL }}">View All Services</a>
+        <a class="button button-primary" href="{{ "sponsorship/" | relURL }}">View All Sponsorship</a>
       </div>
     </div>
     {{ end }}

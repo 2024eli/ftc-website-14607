@@ -7,7 +7,7 @@ intro_image: "https://lh3.googleusercontent.com/pw/ACtC-3fSIGcjaVBgw46Qv_D2JO9UM
 # intro_image_hide_on_mobile: false
 ---
 
-# Our Robots
+# Growing Up With Robots Outreach
 
 We believe in promoting STEM and robotics in our community. Ever since 2018, we have strived to help spread our enthusiasm for STEM to young students in our community.
 

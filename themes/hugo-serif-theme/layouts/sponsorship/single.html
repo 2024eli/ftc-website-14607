@@ -1,4 +1,4 @@
-{{ define "body_classes" }}page-services-single{{ end }}
+{{ define "body_classes" }}page-sponsorship-single{{ end }}
 
 {{ define "main" }}
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
@@ -15,11 +15,11 @@
 
 {{ define "footer_js" }}
 {{ $library := resources.Get "js/libs/library.js" }}
-{{ $services := resources.Get "js/pages/services.js" }}
-{{ $servicesJS := slice $library $services |resources.Concat "js/services.js" }}
+{{ $sponsorship := resources.Get "js/pages/sponsorship.js" }}
+{{ $sponsorshipJS := slice $library $sponsorship |resources.Concat "js/sponsorship.js" }}
 {{ if .Site.IsServer }}
-  <script type="text/javascript" src="{{ $servicesJS.RelPermalink }}"></script>
+  <script type="text/javascript" src="{{ $sponsorshipJS.RelPermalink }}"></script>
   {{ else }}
-  <script type="text/javascript" src="{{ ($servicesJS | minify | fingerprint).RelPermalink }}"></script>
+  <script type="text/javascript" src="{{ ($sponsorshipJS | minify | fingerprint).RelPermalink }}"></script>
   {{ end }}
 {{ end }}
