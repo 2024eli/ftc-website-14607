@@ -227,8 +227,8 @@ Set your twitter info to ensure twitter social previews work correctly.
   # config.toml
 
   [params.seo]
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@ftc14607"
+    meta_twitter_creator = "@ftc14607"
 ```
 
 

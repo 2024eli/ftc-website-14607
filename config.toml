@@ -27,7 +27,7 @@ theme = "hugo-serif-theme"
 
   [params.seo]
     meta_twitter_site = "@ftc14607"
-    meta_twitter_creator = "ftc14607"
+    meta_twitter_creator = "@ftc14607"
 
   [params.team]
     summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating

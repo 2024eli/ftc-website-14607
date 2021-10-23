@@ -7,7 +7,7 @@ min_version = 0.51
 homepage = 'https://github.com/zerostaticthemes/hugo-serif-theme'
 demosite = 'https://hugo-serif.netlify.app'
 
-tags = ['responsive','personal','company','multipage','light','bootstrap','zerostatic']
+tags = ['responsive','personal','company','multipage','light','bootstrap','zerostatic','maribelle chu', 'robot uprising']
 features = ['bootstrap','responsive','scss','google analytics','netlify']
 
 [author]
