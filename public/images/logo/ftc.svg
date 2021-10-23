@@ -1,0 +1,14 @@
+<svg width="164" height="36" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" fill-rule="nonzero" fill="none">
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_6" y="26.83483" x="23.658467" stroke-opacity="null" stroke-width="0" stroke="null" fill="#f40000">FTC</text>
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_8" y="26.834215" x="73.618375" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">14607</text>
+  </g>
+ </g>
+</svg>

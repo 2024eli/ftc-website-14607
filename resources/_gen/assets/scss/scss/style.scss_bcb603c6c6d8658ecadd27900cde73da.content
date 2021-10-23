@@ -4710,7 +4710,7 @@ ol {
   font-weight: regular;
   color: #686868; }
 
-.page-robots-single .content > p:first-of-type {
+.page-gur-single .content > p:first-of-type {
   font-size: 1.6rem;
   line-height: 1.4;
   margin-bottom: 40px;
