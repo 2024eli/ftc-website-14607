@@ -1,10 +1,11 @@
 ---
-title: "Thrisha"
+title: "Thrisha Sakamuri"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team2/thrisha.jpg"
-jobtitle: ""
+image: "images/team/thrisha.jpg"
+jobtitle: "Team Member"
 linkedinurl: ""
+promoted: true
 weight: 4
 ---
 

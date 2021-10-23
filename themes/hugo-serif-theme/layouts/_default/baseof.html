@@ -2,14 +2,12 @@
 <html lang="en">
 
 <head>
-  {{ partial "google-tag-manager.html" . }}
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>{{ block "title" . }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
+  <title>{{ block "title" . }}{{ if .Params.meta_title }}{{ .Params.meta_title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}{{ end }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {{ block "meta_tags" . }}{{end}}
-  <link rel="icon" href="{{ "/images/ftcFavicon.jpg" | relURL }}">
-  <!-- Changes the favicon for the all of the pages -->
+  <link rel="icon" type="image/png" href="{{ "ftcFavicon.jpg" | relURL }}">
+  {{ partial "google-fonts.html" . }}
 
   <!-- CSS-->
   {{ if .Site.IsServer }}
@@ -22,12 +20,21 @@
 
   {{ block "header_css" . }}{{ end }}
 
-
+  {{ block "meta_tags" . }}
+    {{ if .Params.description }}<meta name="description" content="{{ .Params.description }}"/>{{ end }}
+    {{ if .Params.meta_title }}<meta property="og:title" content="{{ .Params.meta_title }}"/>{{ else }}<meta property="og:title" content="{{ .Title }}"/>{{ end }}
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="{{ .Permalink }}"/>
+    {{ if .Params.image }}<meta property="og:image" content="{{ .Params.image | absURL }}"/>{{ end }}
+    {{ if .Params.description }}<meta property="og:description" content="{{ .Params.description }}"/>{{ end }}
+    <meta name="twitter:card" content="summary"/>
+    {{ if .Site.Params.seo.meta_twitter_site }}<meta name="twitter:site" content="{{ .Site.Params.seo.meta_twitter_site }}"/>{{ end }}
+    {{ if .Site.Params.seo.meta_twitter_creator }}<meta name="twitter:creator" content="{{ .Site.Params.seo.meta_twitter_creator }}"/>{{ end }}
+  {{ end }}
 
 </head>
 
 <body class='page {{ block "body_classes" . }}{{ end }}'>
-  {{ partial "google-tag-manager-noscript.html" . }}
   {{ partial "main-menu-mobile.html" . }}
   <div class="wrapper">
     {{ partial "header.html" . }}
@@ -49,10 +56,8 @@
   <script type="text/javascript" src="{{ ($scripts | minify | fingerprint).RelPermalink }}"></script>
   {{ end }}
 
+  {{ partial "google-tag-manager.html" . }}
   {{ partial "google-analytics.html" . }}
-
-  <!-- Google Font -->
-  <link href="https://fonts.googleapis.com/css?family=DM+Serif+Display&display=swap" rel="stylesheet">
 </body>
 
 </html>

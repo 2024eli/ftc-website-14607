@@ -5,4 +5,5 @@ featured: true
 draft: false
 weight: 3
 ---
+
 If you are Interested in sponsoring our Team, please refer to our sponsorhip packet: <https://tinyurl.com/RobotUprisingSponsorship>

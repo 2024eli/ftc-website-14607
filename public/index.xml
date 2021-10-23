@@ -1,173 +1,139 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Robot Uprising</title>
+    <title>Homepage on Robot Uprising - 14607</title>
     <link>/</link>
-    <description>Recent content in Home on Robot Uprising</description>
+    <description>Recent content in Homepage on Robot Uprising - 14607</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Apr 2020 15:14:39 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Dec 2018 13:45:06 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Perspecta Case Study</title>
-      <link>/services/perspecta/</link>
-      <pubDate>Fri, 03 Apr 2020 12:33:46 +1000</pubDate>
-      
-      <guid>/services/perspecta/</guid>
-      <description>Perspecta is the result of a merger between 3 defense contractors - Vencore, DXE, and Keypoint. This company has been around since 2017, and is now the 7th largest defense contractor in the nation, signing deals worth billions of dollars.
-We are extremely grateful for their support, and we have worked together in many aspects of the team, as outlined below. Our mentors from Perspecta include Mr. Barry Barlow (CIO), Mrs.</description>
-    </item>
-    
-    <item>
-      <title>Charlie</title>
-      <link>/team/charliewu/</link>
+      <title>Peter Van Eijk</title>
+      <link>/team/peter-van-eijk/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>/team/charliewu/</guid>
-      <description>Charlie is a senior in his 9th year of FIRST, joining the program due to his early inclination towards robotics; starting FLL in fourth grade. He is the founder &amp;amp; team captain of Team 14607, with five years of experience in FTC. He started the team with his dream of crafting a diverse, robot-loving family, and looking at our team, can confidently say that we have done it! In addition to FTC, Charlie dances urban hip-hop and is an officer of Jefferson’s Urban Dance Movement, is captain of Jefferson’s Machine Learning Club, and pursues advanced robotics autonomy research.</description>
+      <guid>/team/peter-van-eijk/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
-      <title>TJPF Case Study</title>
-      <link>/services/tjpf/</link>
-      <pubDate>Fri, 03 Apr 2020 15:14:39 +1000</pubDate>
+      <title>Accounting</title>
+      <link>/services/accounting/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/services/tjpf/</guid>
-      <description>The TJ Partnership Fund (TJPF) is our schools grant system to support the unique learning opportunities, specialized curriculum, and innovative research opportunities that TJHSST provides. While they normally have a maximum grant of $1,000 for clubs, due to our performance at the world championship, and our extensive outreach, we were given $5,000 dollars. To show our gratitude, we partnered with them for multiple events, including Techstravaganza and the TJHSST Partnership Gala</description>
+      <guid>/services/accounting/</guid>
+      <description>Financial accounting (or financial accountancy) is the field of accounting concerned with the summary, analysis and reporting of financial transactions related to a business.
+Objectives Financial accounting and financial reporting are often used as synonyms.
+ According to International Financial Reporting Standards: the objective of financial reporting is: To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.</description>
     </item>
     
     <item>
-      <title>Dev</title>
-      <link>/team/devpatel/</link>
+      <title>Business Advisory</title>
+      <link>/services/business-advisory/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/services/business-advisory/</guid>
+      <description>Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares ignisque quaerit dederat gemino Aethiopesque caelo ulciscitur est. Morte lugebere conatur Pallada quaerentes tulit, ignis vagatur undis, latitantem ignemque non laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat Coroneus est qui viscere barbariam seris. Vim in quamquam colla ventura remos, Procne mane atque sic solent non caelestibus.</description>
+    </item>
+    
+    <item>
+      <title>Sage Kirk</title>
+      <link>/team/sage-kirk/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>/team/devpatel/</guid>
-      <description>Dev is a senior in his 8th year of FIRST, joining the FLL program in 5th grade due to his love of legos. Dev is the CAD Lead of team FTC 14607, and has 5 years of FTC experience. He joined the team looking for a diverse, robotics family. In addition to FTC, Dev is part of the TJ UROV Team, and pursues his interests in Cloud Computing and the AWS Platform.</description>
+      <guid>/team/sage-kirk/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
     </item>
     
     <item>
-      <title>Sponsorship Packet</title>
-      <link>/services/sponsorshippacket/</link>
+      <title>Mike Vance</title>
+      <link>/team/mike-vance/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:30 +1000</pubDate>
+      
+      <guid>/team/mike-vance/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
+    </item>
+    
+    <item>
+      <title>Robert Johnson</title>
+      <link>/team/robert-johnson/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:23 +1000</pubDate>
+      
+      <guid>/team/robert-johnson/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
+    </item>
+    
+    <item>
+      <title>Business Sales</title>
+      <link>/services/business-sales/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>/services/business-sales/</guid>
+      <description>Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia vixque dixit negari ullis stamina: trahit. Tanta rictus in mitia causa, Phoebo nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato cadet! Ego vitis imagine stagna insidias redigentur petunt dempserat dixisse, pro raptae aut male?
+ Dente reponere dixere referre excessitque seque Tacui si cui inde haec ubi trepidas Coniunx nulla aut  Geniti facinus praeruptam atris ab manus in Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere non tangere tendens corpore sed.</description>
+    </item>
+    
+    <item>
+      <title>Tamara Ells</title>
+      <link>/team/tamara-ells/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:55 +1000</pubDate>
+      
+      <guid>/team/tamara-ells/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
+    </item>
+    
+    <item>
+      <title>Mergers</title>
+      <link>/services/mergers/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>/services/mergers/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
+ Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+    </item>
+    
+    <item>
+      <title>Susan Shelton</title>
+      <link>/team/susan-shelton/</link>
+      <pubDate>Thu, 20 Dec 2018 13:45:06 +1000</pubDate>
+      
+      <guid>/team/susan-shelton/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
+    </item>
+    
+    <item>
+      <title>Superannuation</title>
+      <link>/services/superannuation/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
-      <guid>/services/sponsorshippacket/</guid>
-      <description>If you are Interested in sponsoring our Team, please refer to our sponsorhip packet: https://tinyurl.com/ftc14607sponsor</description>
+      <guid>/services/superannuation/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
+ Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
     </item>
     
     <item>
-      <title>Kari</title>
-      <link>/team/karinaga/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      <title>Tax Preperation</title>
+      <link>/services/tax-preperation/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/team/karinaga/</guid>
-      <description>Kari is a senior in his 3rd year of FIRST. A founding member of Robot Uprising, he has been interested in robotics since elementary school but wasn&amp;rsquo;t able to explore it until he joined FTC. He is passionate about programming and building and also enjoys the outreach portions of the FIRST program. Outside of FTC, he is an officer of the web development club at TJ and enjoys playing video games and listening to music in his free time.</description>
+      <guid>/services/tax-preperation/</guid>
+      <description>Lorem markdownum Achaica revolutaque amore, penitus puppes nec furit, clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem Cretaeas enim ipse pectora excusat candentibus fertur? Furtiva Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+ Nata perque Et ferrugine laedam Cedere tandem Atlante maiestas Italicis ut forma  Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum precor facitote nubemque. Potuit Celadon Martem?
+ Imagine Assaracus victori petet femina mea haustos Sicaniam quibus agro magni In utque Troica pedum caelestia hunc tempto Gregibus certare tamen turbatque qui  Patulis Veneris est expulit adversaque magnum mediaque Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit.</description>
     </item>
     
     <item>
-      <title>Jason</title>
-      <link>/team/jasonwang/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       
-      <guid>/team/jasonwang/</guid>
-      <description>Jason is a senior in his 3rd year of FIRST, and he developed a passion for robotics after discovering the technological wonder that is CAD. He is the Documentation and Outreach Lead, and his favorite parts about our robotics team are designing new parts, engaging with other robot-lovers, and teaching younger students. Besides robotics, Jason participates in TJ’s Machine Learning Club, Senior Computer Team, Dev Club, and Urban Dance Movement. He has an avid interest in computer science and dreams of using CS and robotics to help others.</description>
-    </item>
-    
-    <item>
-      <title>Reevu</title>
-      <link>/team/reevuadakroy/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>/team/reevuadakroy/</guid>
-      <description>Reevu is a senior in his 3rd year of FIRST, joining the FTC program in 10th grade due to his interest in building things. Ever since he worked with his 8th grade Science Olympiad team to make a hovercraft, Reevu has loved creating things that move. Reevu is the Design Lead of team FTC 14607, with 3 years of experience. He joined the team looking for a community that shares his passion.</description>
-    </item>
-    
-    <item>
-      <title>Krish</title>
-      <link>/team/krishpatel/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>/team/krishpatel/</guid>
-      <description>Krish is a senior and this is his eighth year in FIRST, joining FLL in 5th grade because he loves robotics and FIRST is a global venue to meet others about it! He is a member of the Build and Design subteams, and assembles the team’s design. FUN FACT: Dev and Krish are identical twins!</description>
-    </item>
-    
-    <item>
-      <title>Jacob</title>
-      <link>/team/jacobconsalvi/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>/team/jacobconsalvi/</guid>
-      <description>Jacob is a senior and this is his fourth year in FIRST, joining after discovering this gem-of-a-program in fourth grade for FLL and it has shaped him as a person and built his character. A founding member of Robot Uprising, he is a member of the CAD, Engineering, and Software subteams. He has amazing EUREKA moments and amazing extensive knowledge of manufacturing. He participates in FRC, CubeSat, Computer Vision, TARC. Jacob has really cool calligraphy pens.</description>
-    </item>
-    
-    <item>
-      <title>AJ</title>
-      <link>/team/ajseo/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>/team/ajseo/</guid>
-      <description>AJ is a junior in her 3rd year at FIRST, being part of the school&amp;rsquo;s FRC team in freshman year and FTC in her sophomore and junior years. She&amp;rsquo;s been passionate in STEM since her science bowl and olympiad years in middle school and has been striving to continue that path at TJ. Outside of robotics, AJ is part of TJ&amp;rsquo;s Varsity Girls Tennis team and has played the flute for the last 6 years.</description>
-    </item>
-    
-    <item>
-      <title>Winston</title>
-      <link>/team/winstongan/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>/team/winstongan/</guid>
-      <description>Winston is a sophomore in his 5th year of FIRST, joining FLL at the start because he wanted to experience programming. By joining an FLL team in 5th grade, his interest in robotics grew and it led him to join the FTC program, seeking to learn more about robotics. He is very excited to experience his second year on the team. In his free time, Winston enjoys playing basketball, making music, writing fictional novels, and is involved in TJ&amp;rsquo;s cyber patriot team and soccer team.</description>
-    </item>
-    
-    <item>
-      <title>Neil</title>
-      <link>/team/neilmehra/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>/team/neilmehra/</guid>
-      <description>Neil is a sophomore in his 3rd year of FIRST. He first experienced robotics as a kid through LEGO Mindstorms and has had a passion for it ever since then. In 8th grade he founded an FTC team to pursue robotics, which eventually led to meeting Robot Uprising and joining them next year. Besides FTC, Neil likes to compete in programming competitions. During his free time Neil make custom keyboards and play video games.</description>
-    </item>
-    
-    <item>
-      <title>Alan</title>
-      <link>/team/alanjiang/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>/team/alanjiang/</guid>
-      <description>Alan is a sophomore in his first year of FIRST and FTC team 14607, joining because of his love for all things robotics. He first started doing programming, then went down the path to robotics. He joined this team to learn more robotics from a great team. In addition to FTC, Alan does volunteering to teach elementary school kids robotics. During his free time, Alan enjoys playing video games, cooking, and reading.</description>
-    </item>
-    
-    <item>
-      <title>Punav</title>
-      <link>/team/punavkheterpal/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>/team/punavkheterpal/</guid>
-      <description>Punav is a freshman and is participating in his fourth year of FIRST, joining the FLL program due to his love of programming and robotics. He joined the team looking for a new opportunity to pursue his interest in robotics and programming. In addition to the FTC team Punav is participating in the neuroscience society and the quiz bowl team. He is interested in how the human body works on an anatomical and molecular level.</description>
-    </item>
-    
-    <item>
-      <title>Tanvi</title>
-      <link>/team/tanvipedireddi/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>/team/tanvipedireddi/</guid>
-      <description>Tanvi is a freshman and this is her second year in FIRST, joining because of a Facebook post and an aspiring interest in robotics and coding. She is on the school’s Lincoln Douglas debate team, and her hobbies include coding, singing, and drawing. She is looking forward to freshman year.</description>
-    </item>
-    
-    <item>
-      <title>Thrisha</title>
-      <link>/team/thrishasakamuri/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>/team/thrishasakamuri/</guid>
-      <description>Thrisha is a sophomore in her second year at FIRST, being a part of her middle school’s FLL team, joining because of her love of coding. She discovered her passion for STEM when she joined Science and Math Olympiad in fifth grade, and over the last four years, she has learned programming languages like Java and Arduino. In addition to robotics, Thrisha plays the piano, participates in Model United Nations, and plays field hockey.</description>
-    </item>
-    
-    <item>
-      <title>Johnathan</title>
-      <link>/team/johnathantong/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>/team/johnathantong/</guid>
-      <description>Johnathan is a sophomore in his 3rd year of FTC. In 7th grade, he built a 3D printer and was immediately hooked onto robotics and engineering. Johnathan is a new member of FTC team 14607 and has 3 years of FTC experience. He joined the team because he wanted to explore robotics and teach his community with a passionate team. During his free time, Johnathan enjoys playing chess, reading books, playing and watching video games, and learning new things.</description>
+      <guid>/about/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
+ Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
     </item>
     
     <item>
@@ -176,39 +142,8 @@ We are extremely grateful for their support, and we have worked together in many
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       
       <guid>/contact/</guid>
-      <description>Feel free to email us to ask about sponsorship, team guidance, or just any questions in general! If you want, we could set up an online video call, or you could meet us at the TJHSST Robotics Lab (Room 207)! Here are our meeting times at the school:
-   Day Opening Hours     Monday Closed   Tuesday 4:00pm - 6:30pm   Wednesday 4:00pm - 6:30pm   Thursday 4:00pm - 6:30pm   Friday Closed   Saturday 8:00am - 4:00pm   Sunday Closed    </description>
-    </item>
-    
-    <item>
-      <title>2020 Virtual Summer Camps</title>
-      <link>/camps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/camps/</guid>
-      <description>TJHSST&amp;rsquo;s FIRST Tech Challenge Team 14607 Robot Uprising is proud to offer two free virtual summer camps, open to the community and general public. Classes are targeted at middle-school aged students, although anyone is free to attend and learn. These classes teach the fundamentals to technology and robotics, through CAD (Computer Aided Design), design principles, advanced manufacturing techniques, working with the Arduino microcontroller, programming in C/C++, and working with simple electronics.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>“A team of STEM geared individuals, ready to make changes in the World”
-Barry Barlow, CIO Perspecta
-About the Team Robot Uprising is the FIRST Tech Challenge (FTC) Robotics team based at the Thomas Jefferson High School for Science and Technology (TJHSST), the leading public high school in the United States. This is our third year as a team, and we currently have 10 members from 9th to 12th grade. In our first season we advanced to, and won two awards at the World Championship Tournament, and also won 5 other awards at state and regional levels.</description>
-    </item>
-    
-    <item>
-      <title>Our 2019-20 Robot</title>
-      <link>robot</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>robot</guid>
-      <description>Our 2019-20 Robot: Firefly 2020 Technical Binder
- Robot Overview After a rolling development period of 6 months, mk. VII of Firefly was finalized. Utilizing the NASA BEST continuous design process, the team created a final robot that consists of a mecanum drivebase, double ball-bearing slide vertical extension, linkage-based horizontal extension, passthrough intake-outtake system, and a quick intake.
- Drivebase Firefly’s drivebase consists of a four wheel mecanum drivetrain in a full body acetal enclosure.</description>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+   Day Opening Hours     Tuesday 8:30am - 5:00pm   Wednesday 8:30am - 5:00pm   Thursday 8:30am - 5:00pm   Friday 8:30am - 5:00pm   Saturday 10:am - 4:00pm   Sunday Closed    </description>
     </item>
     
   </channel>

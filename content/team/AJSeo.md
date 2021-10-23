@@ -1,9 +1,10 @@
 ---
-title: "AJ"
-date: 2018-11-19T10:47:58+10:00
+title: 'AJ Seo'
+date: 2018-12-20T13:44:30+10:00
 draft: false
-image: "images/team2/aj.jpg"
-jobtitle: "Captain"
+image: 'images/team/aj.jpg'
+jobtitle: 'Captain'
+promoted: true
 linkedinurl: "https://github.com/aseo921"
 weight: 1
 ---

@@ -1,0 +1,8 @@
+<div class="gur gur-summary">
+  <div class="gur-content">
+    <h2 class="gur-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    <p>{{ .Content | plainify | htmlUnescape | truncate 120 "…" }}</p>
+  </div>
+</div>
