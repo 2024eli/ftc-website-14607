@@ -169,7 +169,7 @@ You can edit the themes primary, secondary and neutral colors in `scss/style.scs
 // scss/style.scss
 
 // Colors
-$primary: #f24088;
+$primary: #FF0000;
 $secondary: #f88379;
 $black: #2f2f41;
 $white: #ffffff;

@@ -101,11 +101,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #f24088;
+  color: #FF0000;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #d70f60;
+    color: #b30000;
     text-decoration: underline; }
 
 a:not([href]) {
@@ -4013,7 +4013,7 @@ html {
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 36px;
     height: 3px;
-    background-color: #f24088;
+    background-color: #FF0000;
     border-radius: 3px;
     position: absolute;
     transition-property: transform;
@@ -4049,7 +4049,7 @@ html {
     transform: translate3d(0, -20px, 0) rotate(-90deg); }
 
 a {
-  color: #f24088; }
+  color: #FF0000; }
 
 p {
   line-height: 26px;
@@ -4099,7 +4099,7 @@ ol {
     flex: 1 0 0; }
 
 .header {
-  color: #f24088;
+  color: #FF0000;
   background-color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -4119,7 +4119,7 @@ ol {
   position: static; }
 
 .footer {
-  background: #f24088;
+  background: #FF0000;
   padding-top: 15px;
   padding-bottom: 15px; }
   .footer .footer-inner {
@@ -4176,7 +4176,7 @@ ol {
             height: 40px;
             padding: 10px 8px 10px 8px; } }
 .sub-footer {
-  background: #ef106a;
+  background: #cc0000;
   color: #ffffff;
   padding-top: 15px;
   padding-bottom: 15px; }
@@ -4237,7 +4237,7 @@ ol {
         display: inline-block;
         font-weight: normal;
         text-decoration: none;
-        color: #f24088; }
+        color: #FF0000; }
         .main-menu > ul > li > a:hover {
           text-decoration: underline; }
       .main-menu > ul > li.active > a {
@@ -4249,7 +4249,7 @@ ol {
 
 .main-menu-mobile {
   position: fixed;
-  background: #f24088;
+  background: #FF0000;
   top: 0;
   left: 0;
   width: 100%;
@@ -4326,7 +4326,7 @@ ol {
   .hamburger .hamburger-inner,
   .hamburger .hamburger-inner::before,
   .hamburger .hamburger-inner::after {
-    background: #f24088; }
+    background: #FF0000; }
   .hamburger .hamburger-inner::after {
     width: 18px;
     right: 0; }
@@ -4340,7 +4340,7 @@ ol {
   height: 40px;
   line-height: 40px;
   padding: 0 14px;
-  background: #f24088;
+  background: #FF0000;
   border-radius: 4px;
   font-size: 14px;
   font-weight: normal;
@@ -4352,7 +4352,7 @@ ol {
   transition: all 0.15s ease; }
   .button:hover {
     color: #ffffff;
-    background-color: #f570a6;
+    background-color: #ff3333;
     transform: translateY(-1px);
     text-decoration: none; }
 
@@ -4587,13 +4587,13 @@ ol {
     transform: skewY(-5deg); }
 
 .strip-primary-gradient {
-  background-image: linear-gradient(to right, #f24088, #f88379); }
+  background-image: linear-gradient(to right, #FF0000, #f88379); }
 
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, #f24088, #f88379); }
+  background-image: linear-gradient(to bottom, #FF0000, #f88379); }
 
 .strip-primary {
-  background-color: #f24088; }
+  background-color: #FF0000; }
 
 .strip-secondary {
   background-color: #f88379; }
