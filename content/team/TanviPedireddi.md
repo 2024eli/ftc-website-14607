@@ -1,10 +1,11 @@
 ---
-title: "Tanvi"
+title: "Tanvi Pedireddi"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team2/tanvi.jpg"
-jobtitle: ""
+image: "images/team/tanvi.jpg"
+jobtitle: "Team Member"
 linkedinurl: ""
+promoted: true
 weight: 7
 ---
 

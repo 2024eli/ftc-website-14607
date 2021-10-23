@@ -1,10 +1,6 @@
 a {
   color: $primary;
 }
-img {
-  max-width: 100%;
-  height: auto;
-}
 p {
   line-height: 26px;
   color: $steel;
@@ -12,7 +8,7 @@ p {
   margin-bottom: 20px;
 }
 h1 {
-  font-size: 20px;
+  font-size: 24px;
   font-family: $font-family-heading;
   line-height: 1.2;
   margin-bottom: 20px;
@@ -22,7 +18,7 @@ h1 {
   }
 }
 h2 {
-  font-size: 22px;
+  font-size: 20px;
   font-family: $font-family-heading;
   line-height: 1.4;
   margin-bottom: 10px;

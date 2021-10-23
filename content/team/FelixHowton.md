@@ -1,9 +1,10 @@
 ---
-title: "Felix"
+title: "Felix Howton"
 date:
 draft: false
-image: "images/team2/felix.jpg"
-jobtitle: ""
+image: "images/team/felix.jpg"
+promoted: true
+jobtitle: "Team Member"
 linkedinurl: ""
 weight: 19
 ---

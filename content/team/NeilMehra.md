@@ -1,10 +1,11 @@
 ---
-title: "Neil"
+title: "Neil Mehra"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team2/neil.jpg"
-jobtitle: ""
+image: "images/team/neil.jpg"
+jobtitle: "Team Member"
 linkedinurl: ""
+promoted: true
 weight: 3
 ---
 

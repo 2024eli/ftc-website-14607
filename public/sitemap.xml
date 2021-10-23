@@ -1,139 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/services/perspecta/</loc>
-    <lastmod>2020-04-03T12:33:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/charliewu/</loc>
+    <loc>/team/peter-van-eijk/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/services/tjpf/</loc>
-    <lastmod>2020-04-03T15:14:39+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/devpatel/</loc>
+  </url><url>
+    <loc>/services/accounting/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>/services/business-advisory/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url><url>
+    <loc>/team/sage-kirk/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/services/sponsorshippacket/</loc>
+  </url><url>
+    <loc>/team/mike-vance/</loc>
+    <lastmod>2018-12-20T13:44:30+10:00</lastmod>
+  </url><url>
+    <loc>/team/robert-johnson/</loc>
+    <lastmod>2018-12-20T13:44:23+10:00</lastmod>
+  </url><url>
+    <loc>/services/business-sales/</loc>
+    <lastmod>2018-11-28T15:15:26+10:00</lastmod>
+  </url><url>
+    <loc>/team/tamara-ells/</loc>
+    <lastmod>2018-12-20T13:44:55+10:00</lastmod>
+  </url><url>
+    <loc>/services/mergers/</loc>
+    <lastmod>2018-11-28T15:15:34+10:00</lastmod>
+  </url><url>
+    <loc>/team/susan-shelton/</loc>
+    <lastmod>2018-12-20T13:45:06+10:00</lastmod>
+  </url><url>
+    <loc>/services/superannuation/</loc>
     <lastmod>2018-11-28T15:14:54+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/karinaga/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/jasonwang/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/reevuadakroy/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/krishpatel/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/jacobconsalvi/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/ajseo/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/winstongan/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/neilmehra/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/alanjiang/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/punavkheterpal/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/tanvipedireddi/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/thrishasakamuri/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/johnathantong/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/services/tax-preperation/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
     <loc>/</loc>
-    <lastmod>2020-04-03T15:14:39+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/services/</loc>
-    <lastmod>2020-04-03T15:14:39+10:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-12-20T13:45:06+10:00</lastmod>
+  </url><url>
     <loc>/team/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-12-20T13:45:06+10:00</lastmod>
+  </url><url>
+    <loc>/services/</loc>
+    <lastmod>2018-11-28T15:15:34+10:00</lastmod>
+  </url><url>
+    <loc>/about/</loc>
+    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
+  </url><url>
     <loc>/contact/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/camps/</loc>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/robots/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/404/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
   </url>
-  
 </urlset>

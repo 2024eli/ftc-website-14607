@@ -1,7 +1,7 @@
 .footer {
-  background: $black;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  background: $footer-background-color;
+  padding-top: 15px;
+  padding-bottom: 15px;
   .footer-inner {
     display: flex;
     justify-content: space-between;
@@ -17,7 +17,7 @@
     color: #ffffff;
     font-size: 1.3rem;
     font-family: $font-family-heading;
-    font-weight: normal;
+    font-weight: bold;
     margin-bottom: 10px;
     @include media-breakpoint-up(sm) {
       margin: 0;
@@ -28,10 +28,10 @@
     margin: 0;
     padding: 0;
     li {
-      color: lighten($black, 50%);
+      color: $footer-text-color;
       font-size: 1rem;
       a {
-        color: lighten($black, 50%);
+        color: $footer-text-color;
         text-decoration: none;
         padding: 12px 14px 12px 0;
         display: block;
@@ -39,12 +39,9 @@
           text-decoration: underline;
         }
       }
-      &.copyright {
-        font-weight: bold;
-        color: lighten($black, 50%);
-        display: none;
-        @include media-breakpoint-up(md) {
-          display: inline-block;
+      &.active {
+        a {
+          font-weight: bold;
         }
       }
     }

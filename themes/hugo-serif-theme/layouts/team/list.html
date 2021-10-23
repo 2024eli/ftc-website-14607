@@ -1,6 +1,4 @@
-{{ define "header_css" }}{{ end }}
 {{ define "body_classes" }}page-team-list{{ end }}
-{{ define "header_classes" }}{{ end }}
 
 {{ define "main" }}
 <div class="intro">
@@ -12,6 +10,7 @@
       {{ if .Params.intro_image }}
       <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
         <img
+          alt="{{ .Title }}"
           class="intro-image{{ if .Params.intro_image_absolute }} intro-image-absolute{{ end }}{{ if .Params.intro_image_hide_on_mobile }} intro-image-hide-mobile{{ end }}"
           src="{{ .Params.intro_image | relURL }}" />
       </div>
@@ -20,10 +19,15 @@
   </div>
 </div>
 
-<div class="container pt-6 pb-md-6">
+<div class="container">
   <div class="row">
-    {{ range .Pages.ByWeight }}
-    <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
+    {{ range where .Pages.ByWeight ".Params.promoted" true }}
+    <div class="col-12 col-md-6 mb-2">{{ .Render "summary-large" }}</div>
+    {{ end }}
+  </div>
+  <div class="row  pt-6 pb-6">
+    {{ range where .Pages.ByWeight ".Params.promoted" "!=" true}}
+    <div class="col-12 col-md-4 mb-3">{{ .Render "summary" }}</div>
     {{ end }}
   </div>
 </div>

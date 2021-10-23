@@ -5,6 +5,7 @@ draft: false
 image: ""
 jobtitle: ""
 linkedinurl: ""
+promoted: true
 weight: 16
 ---
 

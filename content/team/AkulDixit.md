@@ -1,9 +1,10 @@
 ---
-title: "Akul"
+title: "Akul Dixit"
 date:
 draft: false
-image: "images/team2/akul.jpg"
-jobtitle: ""
+image: "images/team/akul.jpg"
+jobtitle: "Team Member"
+promoted: true
 linkedinurl: ""
 weight: 18
 ---

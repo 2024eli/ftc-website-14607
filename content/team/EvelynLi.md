@@ -1,10 +1,11 @@
 ---
-title: "Evelyn"
+title: "Evelyn Li"
 date:
 draft: false
-image: "images/team2/evelyn.jpg"
+image: "images/team/evelyn.jpg"
 jobtitle: ""
 linkedinurl: ""
+promoted: true
 weight: 17
 ---
 
