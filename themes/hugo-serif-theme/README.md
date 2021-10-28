@@ -246,3 +246,6 @@ Please don't create ports of this theme without asking me. Yes this theme is ope
 
 - [Jekyll Serif Theme](https://github.com/zerostaticthemes/jekyll-serif-theme) (official)
 - [Gatsby Serif Theme](https://github.com/zerostaticthemes/gatsby-serif-theme) (official)
+
+### Maribelles Notes
+- Don't touch anything in Public - it updates itself
