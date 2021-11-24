@@ -3,7 +3,7 @@ title: "Maribelle"
 date: 
 draft: false
 image: ""
-jobtitle: ""
+jobtitle: "Team Member"
 linkedinurl: ""
 promoted: true
 weight: 16
