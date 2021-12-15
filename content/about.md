@@ -8,7 +8,11 @@ Barry Barlow, CIO Perspecta
 
 ## About the Team
 
-Robot Uprising is the FIRST Tech Challenge (FTC) Robotics team based at the Thomas Jefferson High School for Science and Technology (TJHSST), the leading public high school in the United States. This is our fourth year as a team, and we currently have 11 members from 9th to 12th grade. In our first season we advanced to, and won two awards at the World Championship Tournament, and also won 5 other awards at state and regional levels. Last season, we won 13 awards at local and regional levels, and placed 1st seed in robot performance at the State Championship. Our season was unfortunately cut short due to the COVID-19 pandemic.
+Robot Uprising is the FIRST Tech Challenge (FTC) Robotics team based at the Thomas Jefferson High School for Science and Technology (TJHSST), the leading public high school in the United States. 
+
+This is our fourth year as a team, and we currently have 11 members from 9th to 12th grade. In our first season we advanced to, and won two awards at the World Championship Tournament, and also won 5 other awards at state and regional levels. Last season, we won 13 awards at local and regional levels, and placed 1st seed in robot performance at the State Championship. Our season was unfortunately cut short due to the COVID-19 pandemic. 
+
+This season, we won the Think Award 1st Place and Motivate Award 2nd place at the Laurel Maryland Qualifiers. We will be continuing to go to competitions throughout the season. Look forward to more being added to the website!
 
 Connect with us through email <ftc14607@gmail.com>, or through our social media @ftc14607 ([Twitter](https://twitter.com/ftc14607), [Facebook](https://facebook.com/ftc14607), [Instagram](https://instagram.com/ftc14607)). 
 
@@ -25,4 +29,8 @@ We also strive to acheive these goals:
 
 ## About FIRST
 
-FIRST (For Inspiration and Recognition of Science and Technology) Robotics is a global STEM organization that gives passionate students the opportunity to enrich their studies in all areas of STEM and build science, technology, and engineering skills. The theme of this year's season, FIRST RISE, aims to “inspire citizens of the galaxy to work together, strengthening and protecting the Force that binds us and creating a place where collaboration and collective wisdom can elevate new ideas and foster growth”. FIRST organizes STEM robotics competitions for students K-12, such as the FIRST Tech Challenge (FTC), which engages high schoolers in a team competition to build a robot that completes a series of tasks on a playing field, and challenges them to promote STEM throughout their communities. Over 8,000+ teams from across the globe participate in FTC and its robotics challenges every year. Through this program, students develop vital skills in time management, planning, leadership, and teamwork. Last season, the FIRST progression of programs reached over half a million active participants from over 95 countries, and it only continues to grow. For more information, visit www.firstinspires.org.
+FIRST (For Inspiration and Recognition of Science and Technology) Robotics is a global STEM organization that gives passionate students the opportunity to enrich their studies in all areas of STEM and build science, technology, and engineering skills. 
+
+In the 2021-2022 season, FIRST® FORWARDSM presented by Qualcomm, FIRST® teams will explore the future of transportation. From the shipment of packages in rural and urban areas, to disaster relief delivery and high-tech air transit, teams will re-imagine faster, more reliable, inclusive, and sustainable transportation innovations that better connect and grow communities and economies around the world.
+
+This year, FIRST teams will address today’s global challenges related to United Nations Sustainable Development Goal #9, focused on building resilient infrastructure, promoting inclusive and sustainable industrialization, and fostering innovation. By encouraging FIRST participants to think about future transportation sustainability, we’re also empowering them to be the next generation of leaders and innovators, tackling the world’s toughest challenges.

@@ -2,7 +2,7 @@
 title: 'Homepage'
 meta_title: 'FTC 14607 Robot Uprising'
 description: "Serif is a modern business theme for Hugo."
-intro_image: https://lh3.googleusercontent.com/pw/ACtC-3c7_JhCWByCYtrniap3jHy_kXVR_1prXZKfe7V53ecqxcid6yLcn3WOYItHtgIfEi3cOPWmXrYPmEM9ttuuCACl-_GdtqIAQN_WLo_2avQgUzAyl2GGho2g4RISsPNo_-dfrYNgXzHsdCxv0f7ZIp2a=w1284-h969-no?authuser=1
+intro_image: "images/illustrations/teampic.png"
 # edit /assets/scss/components/_intro-image.scss for full control
 # intro_image_absolute: true
 # intro_image_hide_on_mobile: true

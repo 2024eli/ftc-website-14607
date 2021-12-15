@@ -2,7 +2,7 @@
 title: "Maribelle"
 date: 
 draft: false
-image: ""
+image: "images/team/maribelle.png"
 jobtitle: "Team Member"
 linkedinurl: ""
 promoted: true
