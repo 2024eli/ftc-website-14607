@@ -3,7 +3,6 @@ title: "Johnathan Tong"
 date:
 draft: false
 image: "images/team/johnathan.jpg"
-promoted: true
 jobtitle: "Previous Team Member"
 linkedinurl: ""
 weight: 50

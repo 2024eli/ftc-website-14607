@@ -5,7 +5,6 @@ draft: false
 image: "images/team/maribelle.jpg"
 jobtitle: "Previous Team Member"
 linkedinurl: ""
-promoted: true
 weight: 50
 ---
 
