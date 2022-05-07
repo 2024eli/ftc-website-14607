@@ -4,7 +4,7 @@ date:
 draft: false
 image: "images/team/johnathan.jpg"
 promoted: true
-jobtitle: "Team Member"
+jobtitle: "Previous Team Member"
 linkedinurl: ""
 weight: 10
 ---
