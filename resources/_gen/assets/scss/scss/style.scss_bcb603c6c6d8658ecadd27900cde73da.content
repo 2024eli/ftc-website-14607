@@ -1,3 +1,23 @@
+@font-face {
+  font-family: 'Inter';
+  src: url("/fonts/Inter/Inter-VariableFont_slnt,wght.ttf") format("truetype-variations");
+  font-weight: 1 999; }
+
+::-webkit-scrollbar {
+  width: 20px; }
+
+::-webkit-scrollbar-track {
+  background-color: transparent; }
+
+::-webkit-scrollbar-thumb {
+  background-color: #BB000E;
+  border-radius: 20px;
+  border: 6px solid transparent;
+  background-clip: content-box; }
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #BB000E; }
+
 /*!
  * Bootstrap Reboot v4.4.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
@@ -14,14 +34,14 @@ html {
   font-family: sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(47, 47, 65, 0); }
+  -webkit-tap-highlight-color: rgba(17, 17, 17, 0); }
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
 
 body {
   margin: 0;
-  font-family: Helvetica, Arial, sans-serif, -apple-system;
+  font-family: "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif, -apple-system;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -101,11 +121,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #FF0000;
+  color: #E31C25;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #b30000;
+    color: #9f141a;
     text-decoration: underline; }
 
 a:not([href]) {
@@ -4013,7 +4033,7 @@ html {
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 36px;
     height: 3px;
-    background-color: #FF0000;
+    background-color: #E31C25;
     border-radius: 3px;
     position: absolute;
     transition-property: transform;
@@ -4049,17 +4069,17 @@ html {
     transform: translate3d(0, -20px, 0) rotate(-90deg); }
 
 a {
-  color: #FF0000; }
+  color: #E31C25; }
 
 p {
   line-height: 26px;
   color: #5C5A5A;
-  font-family: Helvetica, Arial, sans-serif, -apple-system;
+  font-family: "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif, -apple-system;
   margin-bottom: 20px; }
 
 h1 {
   font-size: 24px;
-  font-family: "Playfair Display", serif, -apple-system;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
   line-height: 1.2;
   margin-bottom: 20px; }
   @media (min-width: 768px) {
@@ -4068,7 +4088,7 @@ h1 {
       line-height: 1.2; } }
 h2 {
   font-size: 20px;
-  font-family: "Playfair Display", serif, -apple-system;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
   line-height: 1.4;
   margin-bottom: 10px; }
   @media (min-width: 768px) {
@@ -4099,7 +4119,7 @@ ol {
     flex: 1 0 0; }
 
 .header {
-  color: #FF0000;
+  color: #E31C25;
   background-color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -4119,7 +4139,7 @@ ol {
   position: static; }
 
 .footer {
-  background: #FF0000;
+  background: #E31C25;
   padding-top: 15px;
   padding-bottom: 15px; }
   .footer .footer-inner {
@@ -4135,7 +4155,7 @@ ol {
   .footer .footer-title {
     color: #ffffff;
     font-size: 1.3rem;
-    font-family: "Playfair Display", serif, -apple-system;
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
     font-weight: bold;
     margin-bottom: 10px; }
     @media (min-width: 576px) {
@@ -4176,7 +4196,7 @@ ol {
             height: 40px;
             padding: 10px 8px 10px 8px; } }
 .sub-footer {
-  background: #cc0000;
+  background: #b6161e;
   color: #ffffff;
   padding-top: 15px;
   padding-bottom: 15px; }
@@ -4237,7 +4257,7 @@ ol {
         display: inline-block;
         font-weight: normal;
         text-decoration: none;
-        color: #FF0000; }
+        color: #E31C25; }
         .main-menu > ul > li > a:hover {
           text-decoration: underline; }
       .main-menu > ul > li.active > a {
@@ -4249,7 +4269,7 @@ ol {
 
 .main-menu-mobile {
   position: fixed;
-  background: #FF0000;
+  background: #E31C25;
   top: 0;
   left: 0;
   width: 100%;
@@ -4282,7 +4302,7 @@ ol {
         animation-delay: 0.6s; }
   .main-menu-mobile ul {
     font-size: 30px;
-    font-family: "Playfair Display", serif, -apple-system;
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
     text-align: center;
     list-style: none;
     padding: 0;
@@ -4326,7 +4346,7 @@ ol {
   .hamburger .hamburger-inner,
   .hamburger .hamburger-inner::before,
   .hamburger .hamburger-inner::after {
-    background: #FF0000; }
+    background: #E31C25; }
   .hamburger .hamburger-inner::after {
     width: 18px;
     right: 0; }
@@ -4340,7 +4360,7 @@ ol {
   height: 40px;
   line-height: 40px;
   padding: 0 14px;
-  background: #FF0000;
+  background: #E31C25;
   border-radius: 4px;
   font-size: 14px;
   font-weight: normal;
@@ -4352,7 +4372,7 @@ ol {
   transition: all 0.15s ease; }
   .button:hover {
     color: #ffffff;
-    background-color: #ff3333;
+    background-color: #e94951;
     transform: translateY(-1px);
     text-decoration: none; }
 
@@ -4391,7 +4411,7 @@ ol {
   .call strong {
     font-weight: bold; }
   .call svg {
-    fill: white;
+    fill: #ff8891;
     position: absolute;
     bottom: -9px;
     right: 0;
@@ -4402,7 +4422,7 @@ ol {
         width: 120px;
         height: 120px; } }
 .title {
-  color: #2f2f41;
+  color: #111111;
   font-size: 48px;
   line-height: 1.2; }
   @media (min-width: 992px) {
@@ -4424,12 +4444,12 @@ ol {
   font-style: italic; }
 
 .content p {
-  font-family: Helvetica, Arial, sans-serif, -apple-system;
+  font-family: "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif, -apple-system;
   line-height: 1.56;
   color: #5C5A5A; }
 
 .content h1 {
-  font-family: Helvetica, Arial, sans-serif, -apple-system;
+  font-family: "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif, -apple-system;
   font-size: 34px;
   line-height: 1.26;
   font-weight: normal;
@@ -4437,14 +4457,14 @@ ol {
   margin-bottom: 20px; }
 
 .content h2 {
-  font-family: Helvetica, Arial, sans-serif, -apple-system;
+  font-family: "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif, -apple-system;
   font-size: 26px;
   font-weight: normal;
   line-height: 1.4;
   margin-top: 30px; }
 
 .content h3 {
-  font-family: Helvetica, Arial, sans-serif, -apple-system;
+  font-family: "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif, -apple-system;
   font-size: 20px;
   line-height: 1.4;
   font-weight: normal;
@@ -4495,7 +4515,7 @@ ol {
 .content blockquote {
   padding: 0 1em;
   color: #5C5A5A;
-  border-left: 0.25em solid #f88379; }
+  border-left: 0.25em solid #BB000E; }
 
 .intro {
   display: flex;
@@ -4509,7 +4529,7 @@ ol {
       padding-top: 140px;
       padding-bottom: 140px; } }
   .intro h1 {
-    color: #2f2f41;
+    color: #111111;
     font-size: 42px;
     font-weight: bold;
     line-height: 1.2;
@@ -4526,8 +4546,8 @@ ol {
     font-size: 1.2rem;
     line-height: 1.4;
     margin-bottom: 30px;
-    color: #2f2f41;
-    font-family: Helvetica, Arial, sans-serif, -apple-system; }
+    color: #111111;
+    font-family: "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif, -apple-system; }
   .intro p {
     font-size: 1.2rem;
     font-weight: light;
@@ -4588,16 +4608,16 @@ ol {
     transform: skewY(-5deg); }
 
 .strip-primary-gradient {
-  background-image: linear-gradient(to right, #FF0000, #f88379); }
+  background-image: linear-gradient(to right, #E31C25, #BB000E); }
 
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, #FF0000, #f88379); }
+  background-image: linear-gradient(to bottom, #E31C25, #BB000E); }
 
 .strip-primary {
-  background-color: #FF0000; }
+  background-color: #E31C25; }
 
 .strip-secondary {
-  background-color: #f88379; }
+  background-color: #BB000E; }
 
 .strip-diagonal-right {
   margin-top: -100px;
@@ -4674,7 +4694,7 @@ ol {
       font-size: 22px;
       font-weight: normal; }
     .team-summary .team-meta p {
-      color: #2f2f41;
+      color: #111111;
       text-transform: uppercase;
       margin: 0;
       font-size: 12px;
@@ -4721,7 +4741,7 @@ ol {
 body {
   font-size: 16px;
   line-height: 1.2;
-  font-family: Helvetica, Arial, sans-serif, -apple-system; }
+  font-family: "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif, -apple-system; }
   @media (min-width: 768px) {
     body {
       font-size: 16px;

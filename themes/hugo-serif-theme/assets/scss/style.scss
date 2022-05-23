@@ -1,15 +1,41 @@
 // Colors
-$primary: #FF0000;
-$secondary: #f88379;
-$black: #2f2f41;
+$primary: #E31C25;
+$secondary: #BB000E;
+$black: #111111;
 $white: #ffffff;
 $white-offset: #f6f7ff;
 $steel: #5C5A5A;
 
 // Fonts
 // Google fonts are added in `layouts/partials/google-fonts.html`
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: 'Playfair Display', serif, -apple-system;
+$font-family-base: 'Segoe UI', Roboto, Oxygen,
+Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif, -apple-system;
+$font-family-heading: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+@font-face {
+  font-family: 'Inter';
+  src: url('/fonts/Inter/Inter-VariableFont_slnt,wght.ttf') format('truetype-variations');
+  font-weight: 1 999;
+}
+
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: $secondary;
+  border-radius: 20px;
+  border: 6px solid transparent;
+  background-clip: content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: $secondary;
+}
 
 // Links
 $link-color: $primary;
