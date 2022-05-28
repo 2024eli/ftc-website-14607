@@ -2,7 +2,7 @@
 title: "Evelyn Li"
 date:
 draft: false
-image: "images/team/evelyn.jpg"
+image: "images/team/evelyn.JPG"
 jobtitle: "Co-Captain"
 linkedinurl: ""
 promoted: true
