@@ -1,18 +1,12 @@
 {
-  "private": false,
+  "name": "andromeda-light",
+  "version": "1.5.0",
+  "license": "MIT",
+  "author": "gethugothemes",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build and export",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "next": "12.1.4",
-    "react": "18.0.0",
-    "react-dom": "18.0.0"
-  },
-  "devDependencies": {
-    "eslint": "8.12.0",
-    "eslint-config-next": "12.1.4"
+    "dev": "cd exampleSite; hugo server || hugo server --themesDir ../..",
+    "test": "cd exampleSite; hugo server --themesDir ../.. --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --verbose --verboseLog --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify|| hugo server --themesDir ../.. --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --verbose --verboseLog --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify",
+    "build": "cd exampleSite; hugo || hugo --themesDir ../.. --gc --minify --templateMetrics --templateMetricsHints --verbose --verboseLog --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
+    "update": "hugo mod clean && hugo mod get -u ./... && hugo mod tidy"
   }
 }
