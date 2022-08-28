@@ -3,7 +3,7 @@ title: "Alan Jiang"
 date:
 draft: false
 image: "images/team/alan.jpg"
-jobtitle: "Team Member"
+jobtitle: "CAD Lead"
 promoted: true
 linkedinurl: ""
 weight: 9
