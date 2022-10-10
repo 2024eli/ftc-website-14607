@@ -12,14 +12,3 @@
   </div>
 </div>
 {{ end }}
-
-{{ define "footer_js" }}
-{{ $library := resources.Get "js/libs/library.js" }}
-{{ $robots := resources.Get "js/pages/outreach.js" }}
-{{ $robotsJS := slice $library $robots |resources.Concat "js/outreach.js" }}
-{{ if .Site.IsServer }}
-  <script type="text/javascript" src="{{ $outreachJS.RelPermalink }}"></script>
-  {{ else }}
-  <script type="text/javascript" src="{{ ($outreachJS | minify | fingerprint).RelPermalink }}"></script>
-  {{ end }}
-{{ end }}
