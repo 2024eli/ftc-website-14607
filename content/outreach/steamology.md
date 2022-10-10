@@ -6,8 +6,8 @@ featured: true
 weight: 1
 intro_image: "https://lh3.googleusercontent.com/pw/AL9nZEX8Tkk7EnDdZewgzjLav8EVaU6AFrJY_DmVazV2ol7BzBv17-fYtHoMUY7KQvu3XKtNRofwzBqfXkJIlAFIZhtJzi84ojRCy6PYVdWApnsQIWlWVyZm50VeefXrRwZYFrX7LN34s8KtFfn-Xxxe2QkC=w1254-h940-no?authuser=0"
 
-intro_image_absolute: false
-intro_image_hide_on_mobile: false
+# intro_image_absolute: false
+# intro_image_hide_on_mobile: false
 ---
 
 ### 2022 StemFest
