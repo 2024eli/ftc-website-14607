@@ -63,9 +63,14 @@ theme = "hugo-serif-theme"
       weight = 5
 
   [[menu.main]]
+    name = "Outreach"
+    url = "/outreach/"
+      weight = 6
+
+  [[menu.main]]
       name = "Contact"
       url = "/contact/"
-      weight = 6
+      weight = 7
 
   # Footer Menu
   [[menu.footer]]
