@@ -68,9 +68,14 @@ theme = "hugo-serif-theme"
       weight = 6
 
   [[menu.main]]
+    name = "Club"
+    url = "/club/"
+      weight = 7
+
+  [[menu.main]]
       name = "Contact"
       url = "/contact/"
-      weight = 7
+      weight = 9
 
   # Footer Menu
   [[menu.footer]]

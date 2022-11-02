@@ -1,0 +1,8 @@
+<div class="club club-summary">
+  <div class="club-content">
+    <h2 class="club-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    <p>{{ .Content | plainify | htmlUnescape | truncate 120 "…" }}</p>
+  </div>
+</div>

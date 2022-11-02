@@ -5,5 +5,3 @@ layout: contact
 ---
 
 Feel free to email us to ask about sponsorship, team guidance, or just any questions in general! If you want, we could set up an online video call!
-
-First meeting: https://docs.google.com/forms/d/e/1FAIpQLSefNNIIoMyqXuqMcJETkanSfiKumlxXRHyQc561az4QzoqGbw/viewform
