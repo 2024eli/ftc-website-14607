@@ -6,7 +6,7 @@ image: "images/team/devin.jpg"
 jobtitle: "Team Member"
 linkedinurl: "https://github.com/UsernameDP"
 promoted: true
-weight: 25
+weight: 26
 ---
 
 Devin is a sophmore at TJHSST and is in his 1st year of FTC.
