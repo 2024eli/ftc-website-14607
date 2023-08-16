@@ -6,11 +6,4 @@ draft: false
 weight: 3
 ---
 
-If you are Interested in sponsoring our Team, please refer to our sponsorhip packet:
-
-<iframe
-      src="/pdfs/SponsorshipPacket.pdf"
-      frameborder="0"
-      width="150%"
-      height="600px"
-></iframe>
+If you are Interested in sponsoring our Team, please refer to our sponsorhip packet: <https://tinyurl.com/RobotUprisingSponsorship>
