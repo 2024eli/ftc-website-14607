@@ -4,7 +4,7 @@ date:
 draft: false
 image: "images/team/felix.jpg"
 promoted: true
-jobtitle: "Team Member"
+jobtitle: "Business and Outreach Lead"
 linkedinurl: ""
 weight: 19
 ---
